@@ -40,10 +40,7 @@ jobs:
       - name: Run
         run: |
           COMMAND="${{ inputs.command }}"
-          ARGS=""
-          if [ "$COMMAND" != "probe" ]; then
-            ARGS="--age ${{ inputs.age }}"
-          fi
+          ARGS="--age ${{ inputs.age }}"
           if [ "$COMMAND" = "collect" ] || [ "$COMMAND" = "all" ]; then
             if [ -n "${{ inputs.limit }}" ]; then
               ARGS="$ARGS --limit ${{ inputs.limit }}"

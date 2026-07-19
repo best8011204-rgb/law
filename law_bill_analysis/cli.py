@@ -23,12 +23,13 @@ from .report import generate_report
 
 def cmd_probe(args: argparse.Namespace) -> int:
     """API 키/서비스ID가 유효한지, 응답 필드명이 config.FIELD_MAP과 일치하는지 확인한다."""
+    params = {"pIndex": 1, "pSize": 1}
+    if args.age and args.age.lower() != "all":
+        params[config.FIELD_MAP["age"]] = args.age
+
     try:
         client = AssemblyApiClient()
-        payload = client._get(
-            config.BILL_LIST_SERVICE_ID,
-            {"pIndex": 1, "pSize": 1},
-        )
+        payload = client._get(config.BILL_LIST_SERVICE_ID, params)
     except AssemblyApiError as exc:
         print(f"API 호출 실패: {exc}", file=sys.stderr)
         return 1
@@ -84,6 +85,7 @@ def build_parser() -> argparse.ArgumentParser:
     sub = parser.add_subparsers(dest="command", required=True)
 
     p_probe = sub.add_parser("probe", help="API 연결 및 응답 스키마 확인")
+    p_probe.add_argument("--age", default=config.DEFAULT_AGE, help="국회 대수 (예: 22, 'all')")
     p_probe.set_defaults(func=cmd_probe)
 
     p_collect = sub.add_parser("collect", help="전체 의안 수집 + 상세조회 + 분류")
