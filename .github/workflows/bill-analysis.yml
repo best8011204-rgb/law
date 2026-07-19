@@ -13,6 +13,7 @@ on:
           - collect
           - report
           - all
+          - diag
       age:
         description: "국회 대수 (예: 22, all)"
         required: false
@@ -40,6 +41,10 @@ jobs:
       - name: Run
         run: |
           COMMAND="${{ inputs.command }}"
+          if [ "$COMMAND" = "diag" ]; then
+            python scripts/probe_candidates.py
+            exit 0
+          fi
           ARGS="--age ${{ inputs.age }}"
           if [ "$COMMAND" = "collect" ] || [ "$COMMAND" = "all" ]; then
             if [ -n "${{ inputs.limit }}" ]; then
