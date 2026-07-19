@@ -1,9 +1,9 @@
 """중앙 설정 모듈.
 
-열린국회정보 OpenAPI(https://open.assembly.go.kr)의 정확한 요청/응답 필드명은
-네트워크 접근 없이 이 세션에서 실검증하지 못했다. 아래 값들은 공개 문서에
-근거한 최선의 추정치이며, 최초 실행 시 `python -m law_bill_analysis.cli probe`
-로 실제 응답을 찍어보고 다르면 이 파일만 고치면 되도록 한 곳에 모아뒀다.
+BILL_LIST_SERVICE_ID와 FIELD_MAP은 2026-07-19 GitHub Actions에서 실제
+ASSEMBLY_API_KEY로 검증했다 (scripts/probe_candidates.py 실행 결과).
+"ALLBILL"은 존재하지 않는 서비스ID였고, 실제로는 "TVBPMBILL11"이 의안 목록을
+반환한다.
 """
 
 import os
@@ -11,7 +11,7 @@ import os
 API_BASE_URL = "https://open.assembly.go.kr/portal/openapi"
 
 # 의안 목록 서비스 ID. (전체 의안 목록 제공 서비스)
-BILL_LIST_SERVICE_ID = os.environ.get("ASSEMBLY_BILL_SERVICE_ID", "ALLBILL")
+BILL_LIST_SERVICE_ID = os.environ.get("ASSEMBLY_BILL_SERVICE_ID", "TVBPMBILL11")
 
 API_KEY = os.environ.get("ASSEMBLY_API_KEY", "")
 
@@ -25,21 +25,23 @@ MAX_RETRIES = 4
 RETRY_BACKOFF_BASE_SEC = 2
 REQUEST_INTERVAL_SEC = float(os.environ.get("ASSEMBLY_REQUEST_INTERVAL_SEC", "0.2"))
 
-# 목록 응답(row)에서 사용하는 필드명 매핑. 실제 API 응답 키가 다르면 여기만 수정.
+# 목록 응답(row)에서 사용하는 필드명 매핑 (TVBPMBILL11 실제 응답 기준으로 검증됨).
 FIELD_MAP = {
     "bill_id": "BILL_ID",
     "bill_no": "BILL_NO",
     "bill_name": "BILL_NAME",
     "propose_dt": "PROPOSE_DT",
-    "proposer": "PROPOSER",  # 대표발의자 (콤마/기타 구분자로 공동발의자 포함되는 경우 있음)
-    "publ_proposer": "PUBL_PROPOSER",  # 공동발의자 (있을 경우)
-    "committee": "COMMITTEE",
-    "proc_result": "PROC_RESULT",
-    "detail_link": "DETAIL_LINK",
+    "proposer": "PROPOSER",  # 대표발의자 표시용 텍스트, 예: "강승규의원 등 11인"
+    "rst_proposer": "RST_PROPOSER",  # 대표발의자 이름만 (예: "강승규")
+    "publ_proposer": "PUBL_PROPOSER",  # TVBPMBILL11 응답에는 공동발의자 필드가 없어 항상 빈 값
+    "committee": "CURR_COMMITTEE",
+    "proc_result": "PASS_GUBUN",
+    "detail_link": "LINK_URL",
     "age": "AGE",
 }
 
-# 정당 정보는 ALLBILL 목록에 없는 경우가 많아, 국회의원 인적사항 API로 보강한다.
+# 정당 정보는 TVBPMBILL11 목록에 없어 국회의원 인적사항 API로 보강한다.
+# MEMBER_INFO_SERVICE_ID는 아직 실검증하지 못한 추정값이며, 필요 시 이 값도 확인 필요.
 MEMBER_INFO_SERVICE_ID = os.environ.get("ASSEMBLY_MEMBER_SERVICE_ID", "ALLNAMEMBER")
 MEMBER_FIELD_MAP = {
     "name": "HG_NM",

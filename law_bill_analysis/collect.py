@@ -104,7 +104,8 @@ def collect_bills(
             detail_link=_row_get(row, "detail_link"),
             age=_row_get(row, "age") or age,
         )
-        record.party = name_to_party.get(primary_proposer_name(record.lead_proposer), "")
+        rst_proposer = _row_get(row, "rst_proposer")
+        record.party = name_to_party.get(rst_proposer or primary_proposer_name(record.lead_proposer), "")
 
         if detail_fetcher is not None:
             try:

@@ -40,18 +40,22 @@ python main.py report --age 22
 python main.py all --age 22
 ```
 
-## 실제 API 스키마와 다를 경우
+## API 스키마 검증 상태
 
-이 프로젝트는 네트워크가 차단된 환경에서 작성되어, 열린국회정보 OpenAPI의 정확한
-서비스ID/응답 필드명을 실호출로 검증하지 못했습니다. `python main.py probe`로 실제
-응답을 확인한 뒤, 다음 두 파일만 고치면 나머지 코드는 그대로 동작합니다.
-
-- `law_bill_analysis/config.py`
-  - `BILL_LIST_SERVICE_ID`: 의안 전체 목록 서비스 ID (기본 추정값 `ALLBILL`)
-  - `FIELD_MAP`: 목록 응답의 실제 키 이름 매핑
-  - `MEMBER_INFO_SERVICE_ID`, `MEMBER_FIELD_MAP`: 정당 정보 보강용 (기본 추정값 `ALLNAMEMBER`)
-- `law_bill_analysis/detail_fetcher.py`
-  - `_SECTION_HEADERS`: 상세페이지에서 제안이유/주요내용/의안요약을 찾는 헤더 키워드
+- `BILL_LIST_SERVICE_ID = "TVBPMBILL11"`와 `FIELD_MAP`은 2026-07-19에 실제
+  `ASSEMBLY_API_KEY`로 GitHub Actions에서 검증했습니다 (`AGE=22` 기준 정상 응답,
+  전체 19,503건). `ALLBILL`은 존재하지 않는 서비스ID였습니다.
+- `MEMBER_INFO_SERVICE_ID`(`ALLNAMEMBER`, 정당 정보 보강용)는 아직 실호출로
+  검증하지 못한 추정값입니다. 응답이 비정상이면 로그에 경고만 남기고 정당
+  정보 없이 계속 진행하도록 만들어져 있으니, `python main.py collect` 실행 후
+  `output/cache/member_party.json`이 비어 있는지 확인해보세요.
+- 만약 향후 API 스펙이 바뀌어 응답이 달라지면 `python main.py probe`나
+  `python scripts/probe_candidates.py`로 재확인한 뒤 다음 두 파일만 고치면
+  나머지 코드는 그대로 동작합니다.
+  - `law_bill_analysis/config.py`: `BILL_LIST_SERVICE_ID`, `FIELD_MAP`,
+    `MEMBER_INFO_SERVICE_ID`, `MEMBER_FIELD_MAP`
+  - `law_bill_analysis/detail_fetcher.py`: `_SECTION_HEADERS` (상세페이지에서
+    제안이유/주요내용/의안요약을 찾는 헤더 키워드)
 
 ## 분류 기준
 
