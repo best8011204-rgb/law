@@ -1,0 +1,60 @@
+name: Bill Analysis
+
+on:
+  workflow_dispatch:
+    inputs:
+      command:
+        description: "실행할 명령"
+        required: true
+        default: "probe"
+        type: choice
+        options:
+          - probe
+          - collect
+          - report
+          - all
+      age:
+        description: "국회 대수 (예: 22, all)"
+        required: false
+        default: "22"
+      limit:
+        description: "collect 테스트용 최대 건수 제한 (비우면 전체)"
+        required: false
+        default: ""
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    env:
+      ASSEMBLY_API_KEY: ${{ secrets.OPENAPI_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run
+        run: |
+          COMMAND="${{ inputs.command }}"
+          ARGS=""
+          if [ "$COMMAND" != "probe" ]; then
+            ARGS="--age ${{ inputs.age }}"
+          fi
+          if [ "$COMMAND" = "collect" ] || [ "$COMMAND" = "all" ]; then
+            if [ -n "${{ inputs.limit }}" ]; then
+              ARGS="$ARGS --limit ${{ inputs.limit }}"
+            fi
+          fi
+          python main.py "$COMMAND" $ARGS
+
+      - name: Upload output
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: bill-analysis-output-${{ inputs.command }}-${{ inputs.age }}
+          path: output/
+          if-no-files-found: warn

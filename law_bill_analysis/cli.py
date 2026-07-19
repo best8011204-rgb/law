@@ -39,6 +39,12 @@ def cmd_probe(args: argparse.Namespace) -> int:
         "FIELD_MAP 값과 다르면 그 파일을 수정하세요.",
         file=sys.stderr,
     )
+
+    out_dir = Path(config.OUTPUT_DIR)
+    out_dir.mkdir(parents=True, exist_ok=True)
+    (out_dir / "probe_response.json").write_text(
+        json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
     return 0
 
 
