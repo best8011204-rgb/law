@@ -1,0 +1,613 @@
+﻿author,author_id,main_institution,first_author_papers,last_author_papers,papers,cites,h,ncites_sum,ncites_mean,recent_23_26
+John Hon-Shing Lau,https://openalex.org/A5000222202,ASM Pacific Technology,56,0,68,2086,21,216.9,3.19,15
+Cheng-Ta Ko,https://openalex.org/A5111948705,Indium Corporation,5,0,32,625,15,66.8,2.09,2
+Rao Tummala,https://openalex.org/A5045655197,Georgia Institute of Technology,0,23,32,514,15,61.8,1.93,6
+Madhavan Swaminathan,https://openalex.org/A5085554167,Georgia Institute of Technology,0,20,32,411,12,56.1,1.75,17
+Tanja Braun,https://openalex.org/A5038711342,Fraunhofer Institute for Reliability and Microintegration,16,3,47,388,12,43.8,0.93,15
+Fuhan Liu,https://openalex.org/A5019491400,Georgia Institute of Technology,7,0,18,307,12,35.4,1.97,2
+Martin Schneider‐Ramelow,https://openalex.org/A5104100965,Technische Universität Berlin,0,30,42,346,11,40.5,0.96,16
+Tony Chen,https://openalex.org/A5101994456,Jiangsu Changjiang Electronics Technology,0,1,15,490,10,49.2,3.28,0
+Shin-Puu Jeng,https://openalex.org/A5110111291,Taiwan Semiconductor Manufacturing Company,1,10,14,324,10,44.4,3.17,4
+Iris Xu,https://openalex.org/A5043526217,,0,1,14,468,9,46.6,3.33,0
+Nelson Fan,https://openalex.org/A5101039741,ASM Pacific Technology,1,1,15,468,9,46.6,3.11,0
+Eric Kuah,https://openalex.org/A5049713089,ASM Pacific Technology,0,1,15,468,9,46.6,3.11,0
+Sze Pei Lim,https://openalex.org/A5050829175,Indium Corporation,0,0,14,468,9,46.6,3.33,0
+Rozalia Beica,https://openalex.org/A5019367836,Dow Chemical,0,0,14,468,9,46.6,3.33,0
+Rong Sun,https://openalex.org/A5101774540,Shenzhen Institutes of Advanced Technology,0,24,28,298,9,38.4,1.37,10
+Daquan Yu,https://openalex.org/A5101795019,Xiamen University,2,13,26,296,9,37.3,1.43,5
+Mohanalingam Kathaperumal,https://openalex.org/A5071768566,Georgia Institute of Technology,0,1,21,234,9,36.7,1.75,11
+Chen-Chao Wang,https://openalex.org/A5069952014,Advanced Semiconductor Engineering,0,9,31,229,9,35.4,1.14,16
+Kuan‐Neng Chen,https://openalex.org/A5030670785,National Yang Ming Chiao Tung University,0,21,24,203,9,31.4,1.31,10
+Kai-Ming Yang,https://openalex.org/A5053656073,,1,0,17,270,9,30.8,1.81,1
+David Tarng,https://openalex.org/A5045424781,Advanced Semiconductor Engineering,0,6,13,230,9,25.3,1.94,0
+Tzyy-Jang Tseng,https://openalex.org/A5085021968,,0,6,14,211,9,24.3,1.73,5
+David Soon Wee Ho,https://openalex.org/A5113882936,Institute of Microelectronics [SG],0,1,17,164,9,19.1,1.12,2
+Xiaowu Zhang,https://openalex.org/A5044583078,"Agency for Science, Technology and Research",4,10,16,130,9,14.0,0.87,1
+Simon Siak Boon Lim,https://openalex.org/A5112671898,"Agency for Science, Technology and Research",1,0,14,116,9,12.4,0.89,0
+Qing Xiang Yong,https://openalex.org/A5052446438,Huawei Technologies,0,0,10,421,8,41.8,4.18,0
+Jeffery C. C. Lo,https://openalex.org/A5016536482,Hong Kong University of Science and Technology,2,0,16,414,8,41.2,2.58,0
+S. W. Ricky Lee,https://openalex.org/A5061913080,Hong Kong University of Science and Technology,0,11,15,412,8,41.1,2.74,0
+Mian Tao,https://openalex.org/A5059122502,Hong Kong University of Science and Technology,1,0,13,407,8,40.6,3.12,0
+Zhang Li,https://openalex.org/A5100418956,,0,0,11,403,8,40.2,3.65,0
+Karl‐Friedrich Becker,https://openalex.org/A5059384159,Fraunhofer Institute for Reliability and Microintegration,0,0,22,259,8,30.6,1.39,9
+Curry Lin,https://openalex.org/A5047826456,,1,0,16,250,8,26.9,1.68,2
+S. Voges,https://openalex.org/A5055841163,Fraunhofer Institute for Reliability and Microintegration,0,0,13,230,8,24.8,1.9,1
+Puru Bruce Lin,https://openalex.org/A5102310186,,0,0,18,206,8,24.1,1.34,2
+Atom O. Watanabe,https://openalex.org/A5059444601,Georgia Institute of Technology,3,0,13,195,8,23.4,1.8,3
+Hsing-Ning Liu,https://openalex.org/A5040446560,,0,0,11,195,8,22.6,2.05,4
+Tim Xia,https://openalex.org/A5041282520,,0,0,14,192,8,22.6,1.62,1
+Lim Teck Guan,https://openalex.org/A5047072469,Institute of Microelectronics [SG],1,5,21,142,8,14.9,0.71,5
+Ser Choong Chong,https://openalex.org/A5109578956,"Agency for Science, Technology and Research",2,0,11,111,8,14.3,1.3,1
+Xi Cao,https://openalex.org/A5101683992,Huawei Technologies,0,1,9,389,7,38.6,4.29,0
+M.C. Yew,https://openalex.org/A5109737879,Taiwan Semiconductor Manufacturing Company,0,0,10,261,7,37.9,3.79,2
+Zhong Cheng,https://openalex.org/A5112118835,Huawei Technologies,0,0,8,358,7,35.5,4.44,0
+N. C. Lee,https://openalex.org/A5109555625,Indium Corporation,0,0,9,345,7,34.4,3.83,0
+Eric Ng,https://openalex.org/A5041232572,ASM Pacific Technology,0,0,8,336,7,33.5,4.18,0
+Guoping Zhang,https://openalex.org/A5100753740,Shenzhen Institutes of Advanced Technology,0,3,23,250,7,32.3,1.4,7
+Henry Kai-Ming Yang,https://openalex.org/A5025936411,,0,0,10,300,7,29.8,2.98,1
+Kuo‐Ning Chiang,https://openalex.org/A5069751039,National Tsing Hua University,0,17,17,162,7,29.7,1.74,9
+Meng-Kai Shih,https://openalex.org/A5031215280,National Formosa University,6,1,15,141,7,28.1,1.87,8
+Liqiang Cao,https://openalex.org/A5083314215,Chinese Academy of Sciences,0,9,15,222,7,27.3,1.82,4
+Eric Beyne,https://openalex.org/A5051712390,IMEC,0,23,30,181,7,26.6,0.89,11
+Margie Li,https://openalex.org/A5084843301,ASM Pacific Technology,0,0,10,261,7,25.9,2.59,0
+Pratik Nimbalkar,https://openalex.org/A5056166473,Georgia Institute of Technology,6,0,9,162,7,22.1,2.45,4
+Subramanian S. Iyer,https://openalex.org/A5091022757,"University of California, Los Angeles",4,18,23,186,7,21.0,0.91,6
+Pulugurtha Markondeya Raj,https://openalex.org/A5065095009,Florida International University,0,4,13,178,7,20.8,1.6,2
+Chin‐Li Kao,https://openalex.org/A5103568712,Advanced Semiconductor Engineering,0,1,14,154,7,17.5,1.25,6
+Ivan Ndip,https://openalex.org/A5089993130,Fraunhofer Institute for Reliability and Microintegration,0,1,16,121,7,15.0,0.94,7
+Yu-Po Wang,https://openalex.org/A5060845509,Siliconware Precision Industries,0,18,21,111,7,13.2,0.63,13
+Chai Tai Chong,https://openalex.org/A5108614681,"Agency for Science, Technology and Research",2,10,19,114,7,12.9,0.68,5
+Xiaobai Wang,https://openalex.org/A5086794991,"Agency for Science, Technology and Research",4,0,11,89,7,9.6,0.87,1
+Yosephine Andriani,https://openalex.org/A5019692597,"Agency for Science, Technology and Research",2,3,10,89,7,9.6,0.96,0
+Dao-Long Chen,https://openalex.org/A5103225704,Advanced Semiconductor Engineering,2,0,8,100,7,9.6,1.2,0
+Kai Ming Wu,https://openalex.org/A5038287652,ASM Pacific Technology,0,0,7,372,6,36.9,5.27,0
+Sau Wee Koh,https://openalex.org/A5112776239,Huawei Technologies,0,0,6,328,6,32.5,5.42,0
+Jinhui Li,https://openalex.org/A5100325438,Shenzhen Institutes of Advanced Technology,0,0,18,214,6,26.6,1.48,3
+Yung‐Sheng Lin,https://openalex.org/A5014342696,Advanced Semiconductor Engineering,1,0,10,133,6,22.1,2.21,5
+Penny Lo,https://openalex.org/A5044589828,ASM Pacific Technology,0,0,9,214,6,21.4,2.38,0
+Ruben Kahle,https://openalex.org/A5018865667,Fraunhofer Institute for Reliability and Microintegration,1,0,14,197,6,21.0,1.5,3
+Leo Chang,https://openalex.org/A5077155483,Siliconware Precision Industries,0,1,13,173,6,19.7,1.51,0
+Eagle Lin,https://openalex.org/A5050813895,,0,0,12,169,6,19.3,1.61,0
+Andy Miller,https://openalex.org/A5087597143,IMEC,1,1,19,132,6,18.8,0.99,7
+Teck Guan Lim,https://openalex.org/A5103543960,"Agency for Science, Technology and Research",2,0,9,97,6,18.7,2.08,5
+Muhammad Ali,https://openalex.org/A5101504813,Georgia Institute of Technology,6,0,8,155,6,18.3,2.28,1
+Chia-Yu Peng,https://openalex.org/A5047536374,,2,0,14,154,6,18.0,1.28,1
+Siddharth Ravichandran,https://openalex.org/A5044226447,Georgia Institute of Technology,3,0,8,155,6,17.7,2.21,1
+Guoqi Zhang,https://openalex.org/A5000424567,Delft University of Technology,0,2,12,140,6,17.6,1.47,6
+John Slabbekoorn,https://openalex.org/A5041973317,IMEC,0,0,14,136,6,17.5,1.25,5
+Douglas Yu,https://openalex.org/A5110022863,Taiwan Semiconductor Manufacturing Company,2,5,7,158,6,16.5,2.36,0
+Boon Long Lau,https://openalex.org/A5068277800,"Agency for Science, Technology and Research",0,0,12,83,6,15.7,1.31,4
+Ming Chinq Jong,https://openalex.org/A5077235798,"Agency for Science, Technology and Research",0,0,11,88,6,15.6,1.42,3
+Jiajie Fan,https://openalex.org/A5066887582,Fudan University,1,7,11,105,6,15.4,1.4,7
+Rolf Aschenbrenner,https://openalex.org/A5074033991,Fraunhofer Institute for Reliability and Microintegration,0,0,12,148,6,15.4,1.28,2
+Zhangming Zhu,https://openalex.org/A5039575274,Xidian University,0,5,9,91,6,15.0,1.66,5
+Tzvy-Jang Tseng,https://openalex.org/A5018719205,,0,2,11,111,6,13.1,1.19,0
+Vempati Srinivasa Rao,https://openalex.org/A5103009742,"Agency for Science, Technology and Research",1,4,13,108,6,12.8,0.98,4
+Yao‐Wen Chang,https://openalex.org/A5018371636,National Taiwan University,0,7,7,95,6,12.7,1.82,2
+Bartlet DeProspo,https://openalex.org/A5035549022,Georgia Institute of Technology,1,0,7,103,6,11.8,1.68,0
+Alain Phommahaxay,https://openalex.org/A5031627498,IMEC,0,0,9,82,6,10.9,1.21,2
+David Ho Soon Wee,https://openalex.org/A5079149253,"Agency for Science, Technology and Research",0,4,14,76,6,8.6,0.62,5
+Songlin Liu,https://openalex.org/A5063542250,"Agency for Science, Technology and Research",0,2,9,76,6,8.3,0.92,1
+Wen Wei Seit,https://openalex.org/A5085480836,"Agency for Science, Technology and Research",0,0,8,69,6,7.8,0.97,1
+Mei Sun,https://openalex.org/A5101211002,"Agency for Science, Technology and Research",8,0,11,67,6,6.9,0.63,3
+Kwang‐Lung Lin,https://openalex.org/A5077252340,National Cheng Kung University,0,8,8,129,5,30.5,3.82,3
+Chien-Lung Liang,https://openalex.org/A5020158811,National Cheng Kung University,4,0,7,128,5,30.4,4.35,3
+Yiu-Ming Cheung,https://openalex.org/A5110570468,ASM Pacific Technology,0,0,5,293,5,29.2,5.84,0
+Ji Hao,https://openalex.org/A5112375907,ASM Pacific Technology,0,0,5,228,5,22.6,4.53,0
+Dan Kyung Suk Oh,https://openalex.org/A5110148073,Samsung Electronics,0,1,6,202,5,20.8,3.47,0
+Po-Yao Lin,https://openalex.org/A5038866759,Taiwan Semiconductor Manufacturing Company,1,0,8,187,5,20.8,2.6,0
+Joungho Kim,https://openalex.org/A5046623632,Korea Advanced Institute of Science and Technology,0,8,9,181,5,20.6,2.29,6
+Takafumi Fukushima,https://openalex.org/A5041535044,Tohoku University,5,14,24,120,5,18.4,0.77,13
+Ole Hoelck,https://openalex.org/A5090024761,Fraunhofer Institute for Reliability and Microintegration,0,0,10,163,5,17.8,1.78,2
+Chang‐Chun Lee,https://openalex.org/A5021628010,National Tsing Hua University,9,5,14,128,5,16.4,1.17,7
+Marc Dreissigacker,https://openalex.org/A5071456836,Technische Universität Berlin,4,0,15,133,5,16.1,1.07,6
+Xingchen Li,https://openalex.org/A5100749621,Georgia Institute of Technology,2,0,10,80,5,15.0,1.5,8
+Markus Wöhrmann,https://openalex.org/A5060247549,Fraunhofer Institute for Reliability and Microintegration,0,2,11,133,5,14.8,1.34,3
+Gary Chang-Fu Chen,https://openalex.org/A5070743390,,1,1,7,119,5,14.6,2.09,4
+Chenhui Xia,https://openalex.org/A5103183321,China Electronics Technology Group Corporation,3,0,10,66,5,12.6,1.26,7
+Gang Dong,https://openalex.org/A5082281062,Xidian University,0,0,9,98,5,11.9,1.32,4
+Jones Yu-Cheng Huang,https://openalex.org/A5101854067,,0,0,7,105,5,11.7,1.68,3
+Yintang Yang,https://openalex.org/A5100402361,Xidian University,0,6,6,97,5,11.5,1.91,1
+Zhi‐Quan Liu,https://openalex.org/A5100608590,Chinese Academy of Sciences,0,4,13,84,5,11.3,0.87,7
+Lihong Cao,https://openalex.org/A5101607358,Advanced Semiconductor Engineering,4,1,8,82,5,11.2,1.4,5
+Masaya Tanaka,https://openalex.org/A5009707727,Dai Nippon Printing,2,1,12,77,5,11.1,0.92,7
+Klaus‐Dieter Lang,https://openalex.org/A5108620479,Fraunhofer Institute for Reliability and Microintegration,0,7,14,96,5,11.1,0.79,0
+Goutham Ezhilarasu,https://openalex.org/A5032673514,"University of California, Los Angeles",2,0,9,104,5,11.1,1.24,0
+Yuhua Chen,https://openalex.org/A5100384519,,0,1,6,103,5,10.8,1.8,0
+Hung‐Chun Kuo,https://openalex.org/A5019134208,Advanced Semiconductor Engineering,0,1,9,98,5,10.5,1.16,2
+Zhiyi Xiao,https://openalex.org/A5069147333,,0,2,6,94,5,10.4,1.73,1
+Xuejun Fan,https://openalex.org/A5090264841,Lamar University,0,2,8,57,5,10.0,1.25,6
+WonChul Do,https://openalex.org/A5045894895,Incheon Catholic University,2,2,11,90,5,9.9,0.9,3
+Chandrasekharan Nair,https://openalex.org/A5003316254,Georgia Institute of Technology,0,0,6,89,5,9.9,1.65,0
+Arnita Podpod,https://openalex.org/A5041828449,IMEC,2,0,9,86,5,9.8,1.08,2
+Emmanuel Chery,https://openalex.org/A5080162224,IMEC,5,0,9,74,5,9.3,1.03,6
+Soon Wee Ho,https://openalex.org/A5111567337,"Agency for Science, Technology and Research",9,1,13,77,5,9.2,0.7,5
+Mihai Dragos Rotaru,https://openalex.org/A5090585637,"Agency for Science, Technology and Research",6,3,17,64,5,9.0,0.53,12
+Tai Chong Chai,https://openalex.org/A5114023083,"Agency for Science, Technology and Research",0,10,13,67,5,8.8,0.68,4
+Satoru Kuramochi,https://openalex.org/A5042415819,Dai Nippon Printing,3,6,12,50,5,8.0,0.67,9
+Takamasa Takano,https://openalex.org/A5001461500,Dai Nippon Printing,5,0,10,65,5,7.9,0.79,5
+Sharon Lim Pei Siang,https://openalex.org/A5006865108,"Agency for Science, Technology and Research",0,0,12,70,5,7.8,0.65,3
+Rahul Dutta,https://openalex.org/A5007450156,Institute of Microelectronics [SG],0,1,8,63,5,7.6,0.94,2
+JinYoung Khim,https://openalex.org/A5076676338,Incheon Catholic University,0,6,6,63,5,7.3,1.22,1
+Jean M. Trewhella,https://openalex.org/A5078871657,GlobalFoundries,0,5,7,63,5,7.3,1.05,0
+Seung Wook Yoon,https://openalex.org/A5010393147,STATS ChipPAC,3,3,8,64,5,7.2,0.9,0
+Hiroshi Kudo,https://openalex.org/A5010597964,Dai Nippon Printing,5,1,7,63,5,7.0,1.0,2
+Kenneth June Rebibis,https://openalex.org/A5063785314,IMEC,0,0,6,67,5,6.9,1.16,0
+Masao Tomikawa,https://openalex.org/A5082806550,"Toray Industries, Inc.",0,9,9,58,5,6.5,0.73,2
+Yong Han,https://openalex.org/A5100715735,"Agency for Science, Technology and Research",0,0,8,58,5,6.3,0.78,1
+Shuying Ma,https://openalex.org/A5052463808,,2,0,8,57,5,6.1,0.76,0
+Sharon Pei-Siang Lim,https://openalex.org/A5111659109,"Agency for Science, Technology and Research",4,0,10,56,5,5.8,0.58,2
+Chong Ser Choong,https://openalex.org/A5049106691,"Agency for Science, Technology and Research",0,2,8,52,5,5.7,0.72,1
+Heeseok Lee,https://openalex.org/A5113818210,Samsung Electronics,5,0,9,49,5,5.5,0.61,4
+Karlheinz Bock,https://openalex.org/A5039968464,Technische Universität Dresden,0,14,14,45,5,4.8,0.35,7
+Krzysztof Niewęgłowski,https://openalex.org/A5111972505,Technische Universität Dresden,0,0,10,37,5,3.7,0.37,4
+Chien-Hsun Lee,https://openalex.org/A5005545752,Taiwan Semiconductor Manufacturing Company,1,0,4,161,4,34.0,8.5,4
+C. Bailey,https://openalex.org/A5060460052,Arizona State University,0,2,7,73,4,32.8,4.68,7
+Dixian Zhao,https://openalex.org/A5070228879,Southeast University,2,2,5,151,4,24.3,4.86,3
+Chenyu Xu,https://openalex.org/A5035358869,Purple Mountain Laboratories,1,0,4,151,4,24.3,6.08,2
+Xiaohu You,https://openalex.org/A5072916702,Purple Mountain Laboratories,0,3,4,151,4,24.3,6.08,2
+Krishnendu Chakrabarty,https://openalex.org/A5033880864,Arizona State University,0,7,7,26,4,24.0,3.44,7
+K. N. Tu,https://openalex.org/A5061216998,City University of Hong Kong,5,1,10,137,4,21.3,2.13,6
+Jun He,https://openalex.org/A5103549167,Taiwan Semiconductor Manufacturing Company,0,6,6,72,4,20.8,3.46,6
+Kathy Yan,https://openalex.org/A5079250723,Taiwan Semiconductor Manufacturing Company,1,0,5,71,4,20.5,4.1,5
+Youngwoo Kim,https://openalex.org/A5100696056,Korea Advanced Institute of Science and Technology,1,1,5,179,4,19.4,3.88,2
+Meiying Su,https://openalex.org/A5101652933,Chinese Academy of Sciences,1,0,10,156,4,16.6,1.66,6
+Fengjuan Wang,https://openalex.org/A5038846309,Xi'an University of Technology,7,1,9,46,4,15.5,1.72,4
+Yuan-Chiu Huang,https://openalex.org/A5079118331,National Yang Ming Chiao Tung University,2,0,6,61,4,15.4,2.57,6
+Liang Shan,https://openalex.org/A5110379231,Chinese Academy of Sciences,0,0,11,124,4,15.1,1.38,3
+Ningmei Yu,https://openalex.org/A5101680857,Xi'an University of Technology,0,1,8,44,4,14.9,1.87,4
+Seok Won Lee,https://openalex.org/A5059429771,Samsung Electronics,0,0,6,122,4,14.9,2.49,3
+Fengze Hou,https://openalex.org/A5016382823,Chinese Academy of Sciences,2,0,6,129,4,14.8,2.46,0
+Gyoungbum Kim,https://openalex.org/A5023212511,Samsung Electronics,0,1,5,136,4,14.8,2.96,0
+Hsien‐Chie Cheng,https://openalex.org/A5064306635,Feng Chia University,4,0,7,111,4,14.7,2.1,2
+Dae-Woo Kim,https://openalex.org/A5101661141,Samsung Electronics,0,3,6,115,4,14.3,2.38,2
+Han-Ping Pu,https://openalex.org/A5110570567,Taiwan Semiconductor Manufacturing Company,1,0,4,137,4,14.1,3.53,0
+Kyoung-Lim Suk,https://openalex.org/A5085465873,Samsung Electronics,1,0,5,127,4,13.4,2.67,0
+Chieh-Lin Chang,https://openalex.org/A5035886115,Dow Chemical,0,0,5,133,4,13.3,2.66,0
+Jhih-Yuan Pan,https://openalex.org/A5040298359,Dow Chemical,0,0,5,133,4,13.3,2.66,0
+Hsing-Hui Wu,https://openalex.org/A5063776388,Dow Chemical,0,0,5,133,4,13.3,2.66,0
+Marc Lin,https://openalex.org/A5109400784,Dow Chemical,0,0,5,133,4,13.3,2.66,0
+Sajay Bhuvanendran Nair Gourikutty,https://openalex.org/A5042223916,"Agency for Science, Technology and Research",4,2,12,56,4,13.2,1.1,10
+Chuei-Tang Wang,https://openalex.org/A5047585341,Taiwan Semiconductor Manufacturing Company,4,0,6,115,4,13.0,2.17,3
+Jason Tsung-Yang Liow,https://openalex.org/A5013228020,,0,1,7,55,4,12.9,1.84,5
+Wenchao Tian,https://openalex.org/A5108704546,Xidian University,4,0,5,79,4,12.5,2.5,4
+Kyoung‐sik Moon,https://openalex.org/A5009228618,Georgia Institute of Technology,0,0,7,68,4,12.3,1.75,4
+Chih Chen,https://openalex.org/A5039650381,National Yang Ming Chiao Tung University,0,9,13,82,4,12.1,0.93,5
+C. T. Ko,https://openalex.org/A5111856105,Dow Chemical,0,0,5,120,4,11.8,2.35,1
+Yu-Tao Yang,https://openalex.org/A5027740007,National Yang Ming Chiao Tung University,0,0,6,57,4,11.8,1.96,5
+Shan-Bo Wang,https://openalex.org/A5065117879,Advanced Semiconductor Engineering,0,0,5,97,4,11.6,2.32,1
+Yun-Ching Hung,https://openalex.org/A5104335741,Advanced Semiconductor Engineering,0,1,4,97,4,11.6,2.9,0
+Amir Nabil Hanna,https://openalex.org/A5004607866,"University of California, Los Angeles",2,0,6,114,4,11.5,1.92,0
+Hsiang‐Hung Chang,https://openalex.org/A5111658361,Industrial Technology Research Institute,0,1,10,110,4,11.3,1.13,3
+C.-P Hung,https://openalex.org/A5025632983,Advanced Semiconductor Engineering,0,5,5,113,4,11.1,2.21,1
+Chien-Kang Hsiung,https://openalex.org/A5025789614,National Yang Ming Chiao Tung University,1,0,6,43,4,11.0,1.83,6
+Chih-Yi Huang,https://openalex.org/A5102170840,Advanced Semiconductor Engineering,2,0,8,92,4,11.0,1.37,3
+Channing Cheng-Lin Yang,https://openalex.org/A5109578958,,2,0,6,95,4,10.9,1.81,3
+Nélson Pinho,https://openalex.org/A5014908469,IMEC,2,0,9,53,4,10.9,1.21,8
+Vanessa Smet,https://openalex.org/A5033555301,Georgia Institute of Technology,0,2,4,83,4,10.5,2.63,1
+Mei-Ling Wu,https://openalex.org/A5085178624,National Sun Yat-sen University,4,2,6,67,4,10.4,1.73,3
+Li‐Yin Gao,https://openalex.org/A5051246236,Chinese Academy of Sciences,0,0,11,75,4,10.1,0.92,6
+Tingyu Lin,https://openalex.org/A5101014835,National Center for Advanced Packaging,0,3,7,91,4,9.8,1.4,0
+C. Key Chung,https://openalex.org/A5112423621,Siliconware Precision Industries,1,2,6,84,4,9.8,1.64,0
+Arsalan Alam,https://openalex.org/A5103816136,"University of California, Los Angeles",1,1,7,97,4,9.8,1.4,0
+Yi-Hsien Wu,https://openalex.org/A5010156000,Advanced Semiconductor Engineering,0,1,4,65,4,9.5,2.37,2
+Yung-Shun Chang,https://openalex.org/A5001499989,Advanced Semiconductor Engineering,0,0,6,65,4,9.5,1.58,4
+Cheng-Yu Ho,https://openalex.org/A5102274278,Advanced Semiconductor Engineering,2,0,5,85,4,9.3,1.86,0
+Shu‐Shen Yeh,https://openalex.org/A5003154255,Taiwan Semiconductor Manufacturing Company,4,0,6,79,4,8.9,1.49,0
+Xiaofan Jia,https://openalex.org/A5018494057,Georgia Institute of Technology,2,0,5,66,4,8.7,1.74,3
+Chia‐Hsin Lee,https://openalex.org/A5051912105,National Yang Ming Chiao Tung University,3,0,7,83,4,8.5,1.21,0
+Yu-Min Lin,https://openalex.org/A5100853989,Industrial Technology Research Institute,3,0,7,83,4,8.5,1.21,0
+Y.H. Chen,https://openalex.org/A5073332408,Hong Kong University of Science and Technology,0,0,4,84,4,8.4,2.1,0
+Zihao Chen,https://openalex.org/A5100434160,Harbin Institute of Technology,2,3,6,77,4,8.3,1.38,2
+Olaf Wittler,https://openalex.org/A5005038704,Fraunhofer Institute for Reliability and Microintegration,1,0,11,62,4,7.8,0.71,4
+Jiaqi Wu,https://openalex.org/A5079190032,"Agency for Science, Technology and Research",2,0,4,33,4,7.8,1.94,4
+Yasuhiro Morikawa,https://openalex.org/A5038477097,Ulvac,4,3,16,45,4,7.6,0.47,5
+Lixi Wan,https://openalex.org/A5109107638,University of Chinese Academy of Sciences,0,3,5,68,4,7.6,1.52,0
+Kazunori Yamamoto,https://openalex.org/A5101060465,"Agency for Science, Technology and Research",0,2,5,66,4,7.6,1.51,0
+Venky Sundaram,https://openalex.org/A5103543612,Georgia Institute of Technology,0,0,5,76,4,7.5,1.51,0
+Xi Cao,https://openalex.org/A5041920021,Huawei Technologies,0,0,4,74,4,7.5,1.87,0
+Marcel Wieland,https://openalex.org/A5087789423,GlobalFoundries,0,0,10,62,4,7.4,0.74,3
+Sheng-Chi Hsieh,https://openalex.org/A5004665933,Advanced Semiconductor Engineering,2,1,5,68,4,7.3,1.45,0
+Yiu‐ming Cheung,https://openalex.org/A5038516431,ASM Pacific Technology,0,0,4,73,4,7.2,1.81,0
+Luke Prenger,https://openalex.org/A5051129815,Brewer Science,4,1,9,67,4,7.2,0.8,2
+Hsiao Hsiang-Yao,https://openalex.org/A5108478152,"Agency for Science, Technology and Research",6,1,13,60,4,7.1,0.55,4
+Ang-Ying Lin,https://openalex.org/A5108941361,Industrial Technology Research Institute,0,1,5,67,4,7.1,1.43,0
+Kangwook Lee,https://openalex.org/A5101899300,SK Hynix,1,5,6,54,4,7.0,1.17,3
+O. Hölck,https://openalex.org/A5084059872,Fraunhofer Institute for Reliability and Microintegration,1,1,9,68,4,7.0,0.78,3
+Jing Jiang,https://openalex.org/A5103208220,Fudan University,1,0,5,47,4,6.9,1.38,4
+Koen Kennes,https://openalex.org/A5076569297,IMEC,0,0,5,37,4,6.7,1.33,3
+Christian Geißler,https://openalex.org/A5068942976,Infineon Technologies,0,1,6,57,4,6.7,1.11,0
+Winnie Lu,https://openalex.org/A5004803158,,0,6,6,55,4,6.5,1.09,0
+Fangfang Niu,https://openalex.org/A5102801675,Shenzhen University,0,0,5,63,4,6.3,1.27,0
+Sheng-Tsai Wu,https://openalex.org/A5113635174,Industrial Technology Research Institute,0,0,5,59,4,6.3,1.27,0
+Tao‐Chih Chang,https://openalex.org/A5102907771,Industrial Technology Research Institute,0,0,6,59,4,6.3,1.06,0
+Qi Wu,https://openalex.org/A5024723041,Brewer Science,0,0,6,60,4,6.3,1.04,0
+Ju-il Choi,https://openalex.org/A5102418073,Samsung Electronics,1,0,4,53,4,6.2,1.55,1
+Christian Goetze,https://openalex.org/A5086787173,GlobalFoundries,0,0,6,54,4,6.2,1.04,0
+Manos M. Tentzeris,https://openalex.org/A5055827474,Georgia Institute of Technology,0,0,4,59,4,6.2,1.56,0
+Dongwook Kim,https://openalex.org/A5100389863,Samsung Electronics,0,4,4,54,4,6.1,1.52,1
+Marco Rossi,https://openalex.org/A5050532709,Fraunhofer Institute for Reliability and Microintegration,0,0,5,51,4,6.0,1.2,0
+Hitoshi Araki,https://openalex.org/A5066640750,"Toray Industries, Inc.",3,0,8,51,4,5.8,0.73,2
+Tang-Yuan Chen,https://openalex.org/A5033124086,Advanced Semiconductor Engineering,0,0,5,64,4,5.8,1.16,0
+Kyung‐Wook Paik,https://openalex.org/A5026879812,Korea Advanced Institute of Science and Technology,0,3,6,43,4,5.7,0.95,2
+Daichi Okamoto,https://openalex.org/A5070953340,"Taiyo INK MFG. Co., Ltd.",3,0,4,51,4,5.6,1.4,0
+Randall Irwin,https://openalex.org/A5109904795,"University of California, Los Angeles",0,0,5,55,4,5.6,1.11,0
+Marius van Dijk,https://openalex.org/A5061392230,Fraunhofer Institute for Reliability and Microintegration,4,0,7,51,4,5.5,0.79,2
+Friedrich‐Leonhard Schein,https://openalex.org/A5089359991,Technische Universität Berlin,4,0,6,55,4,5.5,0.92,0
+Xinping Zhang,https://openalex.org/A5100620246,South China University of Technology,0,6,6,33,4,5.2,0.87,4
+Tz-Cheng Chiu,https://openalex.org/A5103083996,National Cheng Kung University,1,3,8,42,4,5.2,0.65,4
+Douglas Shelton,https://openalex.org/A5051970463,Canon,4,0,10,36,4,5.1,0.51,3
+K. Mori,https://openalex.org/A5057326811,Canon,3,2,10,37,4,5.1,0.51,3
+Pieter Bex,https://openalex.org/A5069840941,IMEC,0,0,7,44,4,5.1,0.72,0
+Jacinta Aman Lim,https://openalex.org/A5016826130,,7,0,9,38,4,4.9,0.54,4
+John Chang,https://openalex.org/A5074985670,Onto Innovation,9,0,11,26,4,4.9,0.44,7
+Saskia Huber,https://openalex.org/A5112973446,Fraunhofer Institute for Reliability and Microintegration,2,0,5,39,4,4.8,0.95,2
+Chuan Seng Tan,https://openalex.org/A5042727705,Nanyang Technological University,0,4,6,32,4,4.7,0.79,3
+Ali Roshanghias,https://openalex.org/A5067330812,Silicon Austria Labs,4,1,5,42,4,4.5,0.91,1
+Keith Best,https://openalex.org/A5011665153,Onto Innovation,2,6,10,23,4,4.5,0.45,5
+Guangqi Ouyang,https://openalex.org/A5065907088,"University of California, Los Angeles",4,0,7,25,4,3.5,0.5,4
+Chia-Kuei Hsu,https://openalex.org/A5112671614,Taiwan Semiconductor Manufacturing Company,1,0,5,30,4,3.3,0.66,0
+Po-Chun Huang,https://openalex.org/A5017092134,,0,0,4,27,4,3.2,0.79,0
+Le Luo,https://openalex.org/A5100529738,Shanghai Institute of Microsystem and Information Technology,0,3,4,29,4,3.1,0.77,0
+Gaowei Xu,https://openalex.org/A5110857800,Chinese Academy of Sciences,0,0,5,29,4,3.1,0.62,1
+Takahide Murayama,https://openalex.org/A5108265442,Ulvac,2,1,4,22,4,2.5,0.62,0
+Ching‐Ping Wong,https://openalex.org/A5109346224,Georgia Institute of Technology,0,5,5,197,3,33.8,6.77,2
+Rahul Manepalli,https://openalex.org/A5091715212,Intel,0,4,4,14,3,29.1,7.29,4
+Sheng Liu,https://openalex.org/A5100319990,Wuhan University,0,2,8,67,3,21.8,2.72,5
+Chih-Pin Hung,https://openalex.org/A5108190027,Advanced Semiconductor Engineering,0,4,7,32,3,21.5,3.07,6
+Arjun Chaudhuri,https://openalex.org/A5090354528,Arizona State University,0,0,5,14,3,18.7,3.73,5
+Huiqi Liu,https://openalex.org/A5052633157,Southeast University,0,0,4,127,3,18.4,4.6,2
+Z.W. Zhong,https://openalex.org/A5100714988,Nanyang Technological University,3,0,4,150,3,17.9,4.47,0
+Partho Bhoumik,https://openalex.org/A5098932933,Arizona State University,4,0,5,21,3,17.7,3.54,5
+Qinzhi Xu,https://openalex.org/A5067861828,Chinese Academy of Sciences,0,1,4,109,3,17.0,4.25,3
+Zhiqiang Li,https://openalex.org/A5114246720,Chinese Academy of Sciences,0,3,4,109,3,17.0,4.25,3
+Yuhua Chen,https://openalex.org/A5100384523,,0,0,4,163,3,16.4,4.1,0
+Xiangkun Yin,https://openalex.org/A5029610013,Xidian University,1,0,6,38,3,15.5,2.59,5
+Yuan Wang Yang,https://openalex.org/A5038561808,Xi'an University of Technology,0,3,5,37,3,14.1,2.83,3
+Pragna Bhaskar,https://openalex.org/A5031735292,Georgia Institute of Technology,3,0,7,80,3,11.9,1.7,5
+Tian Lai Yu,https://openalex.org/A5029679770,Xiamen University,3,0,4,21,3,11.4,2.84,1
+Min‐Yan Tsai,https://openalex.org/A5103222253,Advanced Semiconductor Engineering,2,0,8,43,3,11.3,1.41,6
+Ho-Jin Song,https://openalex.org/A5090103689,Pohang University of Science and Technology,0,5,9,39,3,10.7,1.19,8
+Wei‐Chung Lo,https://openalex.org/A5114053880,Industrial Technology Research Institute,0,1,6,28,3,10.1,1.69,4
+Wonbin Hong,https://openalex.org/A5049430114,Pohang University of Science and Technology,0,6,10,37,3,9.8,0.98,9
+Lars Brusberg,https://openalex.org/A5043966242,Corning,3,0,4,53,3,9.6,2.39,4
+Lucas W. Yeary,https://openalex.org/A5078677615,Corning,0,0,4,53,3,9.6,2.39,4
+Qidong Wang,https://openalex.org/A5101721564,Chinese Academy of Sciences,0,3,7,69,3,9.1,1.3,5
+Liang-Chia Chen,https://openalex.org/A5008794345,National Taiwan University,0,4,5,29,3,9.0,1.81,4
+Benson Lin,https://openalex.org/A5110818317,MediaTek,0,1,7,74,3,8.2,1.16,0
+Dongseop Lee,https://openalex.org/A5101864803,Pohang University of Science and Technology,3,0,8,29,3,8.2,1.03,8
+Fabrice F. C. Duval,https://openalex.org/A5108386022,IMEC,0,0,4,74,3,8.1,2.02,0
+Yuexing Wang,https://openalex.org/A5045282367,China Academy of Engineering Physics,1,0,5,17,3,7.6,1.53,5
+Lutz Stobbe,https://openalex.org/A5067577083,Fraunhofer Institute for Reliability and Microintegration,0,1,6,78,3,7.5,1.24,0
+Yu‐Wei Huang,https://openalex.org/A5072078577,Industrial Technology Research Institute,1,0,4,77,3,7.5,1.87,1
+Kangseop Lee,https://openalex.org/A5058674676,Pohang University of Science and Technology,0,0,4,27,3,7.3,1.83,4
+Vasarla Nagendra Sekhar,https://openalex.org/A5020994281,"Agency for Science, Technology and Research",2,3,5,62,3,7.1,1.42,0
+Ya Fei Wu,https://openalex.org/A5000442830,University of Electronic Science and Technology of China,2,1,7,24,3,7.1,1.02,7
+Wei-Lan Chiu,https://openalex.org/A5007168882,Industrial Technology Research Institute,2,0,7,65,3,7.0,1.0,2
+Ou-Hsiang Lee,https://openalex.org/A5080066332,Industrial Technology Research Institute,0,0,4,65,3,7.0,1.75,0
+TaeKyeong Hwang,https://openalex.org/A5077678173,Incheon Catholic University,0,1,4,49,3,6.8,1.69,2
+Teck Chong Lee,https://openalex.org/A5057792081,Advanced Semiconductor Engineering,2,0,4,54,3,6.8,1.7,2
+Ziyue Zhang,https://openalex.org/A5100600503,Beijing Institute of Technology,1,1,5,41,3,6.7,1.34,2
+Yingtao Ding,https://openalex.org/A5023837881,Beijing Institute of Technology,0,1,5,41,3,6.7,1.34,2
+Yu Jian Cheng,https://openalex.org/A5056880874,University of Electronic Science and Technology of China,0,6,7,19,3,6.7,0.96,7
+Tim Olson,https://openalex.org/A5085023316,,0,2,7,51,3,6.6,0.94,4
+Chi-Wei Wang,https://openalex.org/A5066049719,National Tsing Hua University,1,0,5,69,3,6.5,1.3,2
+Pradyot Yadav,https://openalex.org/A5049227022,Massachusetts Institute of Technology,3,0,4,14,3,6.3,1.57,4
+Tomás Palacios,https://openalex.org/A5024027903,Massachusetts Institute of Technology,0,1,4,14,3,6.3,1.57,4
+François Chancerel,https://openalex.org/A5067809313,IMEC,1,0,4,16,3,6.2,1.54,4
+Robert Gernhardt,https://openalex.org/A5027393888,Fraunhofer Institute for Reliability and Microintegration,1,0,7,52,3,6.2,0.88,3
+Michael J. Topper,https://openalex.org/A5059640571,Fraunhofer Institute for Reliability and Microintegration,2,0,5,58,3,5.9,1.17,0
+Michael Schiffer,https://openalex.org/A5034896299,Fraunhofer Institute for Reliability and Microintegration,0,0,9,37,3,5.8,0.64,5
+Thomas Uhrmann,https://openalex.org/A5055527138,EV Group,4,0,8,26,3,5.7,0.71,4
+Sirous Bahrami,https://openalex.org/A5075922780,Pohang University of Science and Technology,4,0,7,15,3,5.7,0.82,7
+Ming-Fong Jhong,https://openalex.org/A5087211694,Advanced Semiconductor Engineering,2,0,7,54,3,5.6,0.81,0
+Abdellah Salahouelhadj,https://openalex.org/A5075599987,IMEC,4,0,5,55,3,5.6,1.12,0
+Mario González,https://openalex.org/A5089143002,IMEC,0,0,5,55,3,5.6,1.12,0
+Lars Boettcher,https://openalex.org/A5023875156,Fraunhofer Institute for Reliability and Microintegration,2,0,5,55,3,5.5,1.1,1
+Gerald Beyer,https://openalex.org/A5112402799,IMEC,0,1,4,51,3,5.5,1.37,1
+Griselda Bonilla,https://openalex.org/A5018104184,IBM,0,1,4,35,3,5.5,1.37,4
+Chia‐Cheng Chang,https://openalex.org/A5111783033,MediaTek,0,1,5,46,3,5.3,1.06,0
+Haksan Jeong,https://openalex.org/A5057186850,Sungkyunkwan University,3,0,6,43,3,5.2,0.86,1
+Seung‐Boo Jung,https://openalex.org/A5043267942,Sungkyunkwan University,0,6,6,43,3,5.2,0.86,1
+Hans Walter,https://openalex.org/A5109196728,Fraunhofer Institute for Reliability and Microintegration,0,0,6,48,3,5.0,0.84,1
+Tao Wang,https://openalex.org/A5100453540,Shenzhen Institutes of Advanced Technology,2,0,4,43,3,5.0,1.24,0
+Andy Yan-Jia Peng,https://openalex.org/A5065226486,,0,0,4,45,3,4.8,1.19,2
+Cliff Sandstrom,https://openalex.org/A5031375498,,4,1,8,35,3,4.8,0.6,6
+David Weyers,https://openalex.org/A5076631100,Technische Universität Dresden,2,0,5,40,3,4.7,0.93,2
+Shuye Zhang,https://openalex.org/A5067223853,Harbin Institute of Technology,3,1,4,34,3,4.7,1.19,2
+Peng He,https://openalex.org/A5070848500,Harbin Institute of Technology,0,2,4,34,3,4.7,1.19,2
+Kyung Deuk Min,https://openalex.org/A5044305927,Sungkyunkwan University,0,0,4,39,3,4.6,1.15,0
+Hiromi Suda,https://openalex.org/A5021529822,Canon,1,2,9,31,3,4.5,0.5,3
+Kwang‐Ho Jung,https://openalex.org/A5101656527,Sungkyunkwan University,1,0,4,38,3,4.5,1.13,0
+Arnaud Garnier,https://openalex.org/A5030228914,Commissariat à l'Énergie Atomique et aux Énergies Alternatives,2,3,6,41,3,4.5,0.74,1
+Lau Boon Long,https://openalex.org/A5020015355,"Agency for Science, Technology and Research",3,1,10,36,3,4.4,0.44,2
+Markus Woehrmann,https://openalex.org/A5077877382,Fraunhofer Institute for Reliability and Microintegration,3,0,8,42,3,4.4,0.55,2
+Benedict San Jose,https://openalex.org/A5074990761,,2,1,9,32,3,4.4,0.48,7
+Tom Q. Ni,https://openalex.org/A5045555794,,0,7,10,26,3,4.3,0.43,6
+Walter Hartner,https://openalex.org/A5081892693,Infineon Technologies,4,2,9,31,3,4.3,0.48,4
+Peng Sun,https://openalex.org/A5102146783,National Center for Advanced Packaging,1,2,7,42,3,4.3,0.62,3
+Weijie Yin,https://openalex.org/A5046631911,Advanced Semiconductor Engineering,1,1,6,39,3,4.3,0.72,3
+P. Coudrain,https://openalex.org/A5043087502,Commissariat à l'Énergie Atomique et aux Énergies Alternatives,3,3,9,38,3,4.3,0.48,3
+Hsing Ning Liu,https://openalex.org/A5112535937,,0,0,5,35,3,4.2,0.84,0
+Rémi Franiatte,https://openalex.org/A5111073821,Commissariat à l'Énergie Atomique et aux Énergies Alternatives,0,0,10,35,3,4.2,0.42,4
+Tetsu Tanaka,https://openalex.org/A5006295728,Tohoku University,0,1,13,29,3,4.2,0.32,6
+A. H. M. Zahirul Alam,https://openalex.org/A5074528702,"University of California, Los Angeles",2,0,4,39,3,4.2,1.06,0
+Christopher Blancher,https://openalex.org/A5087606070,Georgia Institute of Technology,1,0,5,38,3,4.1,0.82,2
+Akihiro Noriki,https://openalex.org/A5018375505,National Institute of Advanced Industrial Science and Technology,3,1,8,17,3,4.1,0.51,7
+Takeru Amano,https://openalex.org/A5089241212,National Institute of Advanced Industrial Science and Technology,0,6,7,17,3,4.1,0.58,6
+Christian Bernd Tschoban,https://openalex.org/A5109374537,Fraunhofer Institute for Reliability and Microintegration,0,0,5,31,3,4.0,0.8,4
+Saquib Bin Halim,https://openalex.org/A5015971624,GlobalFoundries,0,0,4,33,3,3.9,0.98,0
+Craig Bishop,https://openalex.org/A5012230028,,0,2,5,34,3,3.9,0.78,2
+L. Böttcher,https://openalex.org/A5036098576,Fraunhofer Institute for Reliability and Microintegration,5,2,9,39,3,3.9,0.44,6
+Chengqian Wang,https://openalex.org/A5027217934,China Electronics Technology Group Corporation,2,1,6,32,3,3.7,0.62,1
+Xiao Liu,https://openalex.org/A5100441097,Brewer Science,1,0,5,34,3,3.7,0.73,0
+Michael Toepper,https://openalex.org/A5003631866,Fraunhofer Institute for Reliability and Microintegration,0,0,4,35,3,3.6,0.89,0
+Hisashi Kino,https://openalex.org/A5036200957,Tohoku University,0,0,10,26,3,3.5,0.35,4
+Andreas Stegmaier,https://openalex.org/A5022659960,Fraunhofer Institute for Reliability and Microintegration,1,0,5,34,3,3.5,0.71,2
+Young-Su Kwon,https://openalex.org/A5110958951,Electronics and Telecommunications Research Institute,1,1,5,18,3,3.4,0.69,5
+Tadahiko Hanada,https://openalex.org/A5018609217,"Taiyo INK MFG. Co., Ltd.",0,1,4,32,3,3.4,0.86,1
+Boris Považay,https://openalex.org/A5043106749,EV Group,0,2,6,21,3,3.4,0.57,2
+Katsushi Kan,https://openalex.org/A5113538450,Nagase ChemteX,2,2,4,32,3,3.4,0.85,0
+Xiao Sun,https://openalex.org/A5101886782,IMEC,3,2,7,21,3,3.4,0.48,3
+Mykola Chernobryvko,https://openalex.org/A5062112327,Fraunhofer Institute for Reliability and Microintegration,3,0,7,29,3,3.3,0.47,3
+Edouard Deschaseaux,https://openalex.org/A5026167592,Commissariat à l'Énergie Atomique et aux Énergies Alternatives,0,0,4,26,3,3.3,0.82,1
+Zhaohui Chen,https://openalex.org/A5115590013,"Agency for Science, Technology and Research",2,0,4,33,3,3.3,0.82,0
+Masashi Minami,https://openalex.org/A5037578317,Resonac,2,0,6,12,3,3.3,0.55,6
+Sadaaki Katoh,https://openalex.org/A5104157120,Resonac,0,5,6,12,3,3.3,0.55,6
+Rama Puligadda,https://openalex.org/A5073075187,Brewer Science,0,3,7,30,3,3.3,0.47,0
+R. Roucou,https://openalex.org/A5046764105,NXP,1,0,4,16,3,3.2,0.8,1
+Yuki Masuda,https://openalex.org/A5064242567,"Toray Industries, Inc.",1,0,4,29,3,3.2,0.81,1
+Keika Hashimoto,https://openalex.org/A5075910963,"Toray Industries, Inc.",0,0,4,29,3,3.2,0.81,1
+Yu Shoji,https://openalex.org/A5018930603,"Toray Industries, Inc.",1,0,4,29,3,3.2,0.81,1
+Sven Rzepka,https://openalex.org/A5080867964,Fraunhofer Institute for Electronic Nano Systems,0,3,7,28,3,3.2,0.46,0
+Mathilde Billaud,https://openalex.org/A5049204487,Fraunhofer Institute for Reliability and Microintegration,1,0,5,35,3,3.2,0.64,0
+Abhijeet Kanitkar,https://openalex.org/A5069977462,Fraunhofer Institute for Reliability and Microintegration,2,0,4,29,3,3.2,0.81,0
+Maciej Wojnowski,https://openalex.org/A5063777848,Infineon Technologies,1,3,6,23,3,3.1,0.51,2
+Wei Wang,https://openalex.org/A5100391999,Peking University,0,3,4,20,3,3.1,0.78,3
+Takahiro Tai,https://openalex.org/A5023506019,Dai Nippon Printing,0,2,4,30,3,3.1,0.78,2
+Peng Zhao,https://openalex.org/A5086474111,Nanyang Technological University,4,0,5,25,3,3.0,0.6,2
+Hong Yu Li,https://openalex.org/A5109551765,"Agency for Science, Technology and Research",0,0,4,25,3,3.0,0.75,1
+Yu Dian Lim,https://openalex.org/A5081504270,Nanyang Technological University,0,0,4,25,3,3.0,0.75,1
+Luca Guidoni,https://openalex.org/A5066055846,Laboratoire Matériaux et Phénomènes Quantiques,0,0,4,25,3,3.0,0.75,1
+Kai Zoschke,https://openalex.org/A5057715745,Fraunhofer Institute for Reliability and Microintegration,1,1,5,16,3,3.0,0.61,3
+Henry Sun,https://openalex.org/A5024478558,"University of California, Los Angeles",2,0,6,18,3,3.0,0.5,4
+Xuefei Ming,https://openalex.org/A5110580758,China Electronics Technology Group Corporation,0,2,6,26,3,2.9,0.49,0
+Karsten Meier,https://openalex.org/A5110634896,Technische Universität Dresden,1,0,8,26,3,2.8,0.35,4
+Hirokazu Ito,https://openalex.org/A5020162878,JSR,0,0,4,26,3,2.8,0.69,0
+Yuki Susumago,https://openalex.org/A5084226105,Tohoku University,1,0,9,23,3,2.8,0.32,2
+Daisuke Hironiwa,https://openalex.org/A5042522154,Ulvac,5,0,6,24,3,2.6,0.43,0
+Sharon Lim PS,https://openalex.org/A5112420810,"Agency for Science, Technology and Research",0,1,5,24,3,2.6,0.52,0
+Samatha Benedict,https://openalex.org/A5042967166,"University of California, Los Angeles",0,0,4,23,3,2.6,0.65,0
+Zongming Duan,https://openalex.org/A5113615803,China Electronics Technology Group Corporation,0,1,6,20,3,2.4,0.39,0
+Andreas Ostmann,https://openalex.org/A5025259778,Fraunhofer Institute for Reliability and Microintegration,0,5,6,21,3,2.4,0.4,2
+Ramiro Sebastian Vargas Cruz,https://openalex.org/A5082174794,Obuda University,4,0,4,18,3,2.4,0.61,1
+Viktor Gonda,https://openalex.org/A5068451414,Obuda University,0,4,4,18,3,2.4,0.61,1
+Jinhyun Lee,https://openalex.org/A5014160272,Hanyang University,2,0,5,19,3,2.3,0.45,1
+Bongyoung Yoo,https://openalex.org/A5056378530,Hanyang University,0,5,5,19,3,2.3,0.45,1
+Cheng Zhong,https://openalex.org/A5101892166,Chinese Academy of Sciences,0,0,5,16,3,2.2,0.43,3
+Baron Huang,https://openalex.org/A5047594411,Brewer Science,0,0,4,23,3,2.2,0.54,0
+Geert Van der Plas,https://openalex.org/A5073931298,IMEC,0,0,6,21,3,2.2,0.37,0
+Kavin Senthil Murugesan,https://openalex.org/A5104100966,Technische Universität Berlin,1,0,6,18,3,2.1,0.35,3
+Jian John Lu,https://openalex.org/A5111755604,Onto Innovation,0,2,6,18,3,2.1,0.35,2
+Bernhard Wunderle,https://openalex.org/A5052364259,Chemnitz University of Technology,0,2,6,13,3,2.0,0.34,6
+André Cardoso,https://openalex.org/A5046595195,Amkor Technology,1,1,6,18,3,2.0,0.33,1
+Noriyuki Takahashi,https://openalex.org/A5022430625,Tohoku University,1,0,6,17,3,2.0,0.34,0
+Jian Cai,https://openalex.org/A5101425174,Tsinghua University,0,4,7,12,3,1.9,0.28,4
+Sebastiaan Kersjes,https://openalex.org/A5050680149,Besi,2,1,5,17,3,1.9,0.38,1
+Dimitrios Velenis,https://openalex.org/A5050757937,IMEC,0,0,5,16,3,1.7,0.35,0
+Chuanming Zhu,https://openalex.org/A5102774725,China Electronics Technology Group Corporation,4,0,5,13,3,1.5,0.31,0
+Yuefei Dai,https://openalex.org/A5100840997,China Electronics Technology Group Corporation,0,4,4,13,3,1.5,0.38,0
+Dhruv Thapar,https://openalex.org/A5093558784,Arizona State University,3,0,4,11,2,17.3,4.33,4
+Yingxia Liu,https://openalex.org/A5044270098,City University of Hong Kong,0,5,6,81,2,13.8,2.31,6
+Xialei Lv,https://openalex.org/A5090495563,Chinese Academy of Sciences,0,0,4,85,2,13.3,3.33,3
+Chih-Cheng Hsiao,https://openalex.org/A5054540706,Industrial Technology Research Institute,0,5,9,54,2,12.4,1.38,7
+Shota Miki,https://openalex.org/A5082569463,Shinko Electric Industries,2,2,5,96,2,11.2,2.25,2
+Rathin Mandal,https://openalex.org/A5051513474,"Agency for Science, Technology and Research",3,0,7,36,2,8.0,1.14,3
+Kuo‐Shen Chen,https://openalex.org/A5059489451,National Cheng Kung University,2,2,8,20,2,7.5,0.94,5
+Che-Pei Chang,https://openalex.org/A5110848768,National Tsing Hua University,0,0,4,40,2,6.3,1.56,4
+Boogyo Sim,https://openalex.org/A5069974833,Korea Advanced Institute of Science and Technology,0,1,5,49,2,6.1,1.21,4
+Seongguk Kim,https://openalex.org/A5089858348,Korea Advanced Institute of Science and Technology,0,0,4,47,2,5.8,1.44,3
+Bin Zhou,https://openalex.org/A5049016575,China Electronic Product Reliability and Environmental Test Institute,0,2,4,30,2,5.7,1.42,3
+Chun-Ta Li,https://openalex.org/A5100313900,National Yang Ming Chiao Tung University,1,0,4,19,2,5.1,1.27,4
+I-Hsin Tseng,https://openalex.org/A5091359795,National Yang Ming Chiao Tung University,2,0,4,43,2,5.0,1.24,0
+Yang Chai,https://openalex.org/A5011166102,Hong Kong Polytechnic University,0,1,4,15,2,4.9,1.23,4
+Vito Lin,https://openalex.org/A5002914411,Siliconware Precision Industries,3,0,11,34,2,4.9,0.44,10
+Wen‐Sheng Zhao,https://openalex.org/A5060771525,Hangzhou Dianzi University,0,2,4,23,2,4.7,1.16,3
+Han-Wen Chen,https://openalex.org/A5043302194,Applied Materials,0,1,4,39,2,4.6,1.14,3
+Yazi Cao,https://openalex.org/A5043802744,Hangzhou Dianzi University,0,0,5,15,2,4.5,0.9,5
+Gaofeng Wang,https://openalex.org/A5114929531,Hangzhou Dianzi University,0,5,5,15,2,4.5,0.9,5
+Uwe Maaß,https://openalex.org/A5057879490,Fraunhofer Institute for Reliability and Microintegration,0,0,5,31,2,4.5,0.89,4
+Gang Zhuang,https://openalex.org/A5014069162,University of Electronic Science and Technology of China,2,0,4,14,2,4.5,1.12,4
+Shuairong Deng,https://openalex.org/A5067363808,China Academy of Engineering Physics,0,0,4,10,2,4.5,1.12,4
+EunSook Sohn,https://openalex.org/A5073205357,Amkor Technology,0,0,4,34,2,4.4,1.09,3
+Jimin Kwon,https://openalex.org/A5036509932,Ulsan National Institute of Science and Technology,0,3,4,13,2,4.4,1.1,4
+Zia Karim,https://openalex.org/A5110703107,,0,2,5,16,2,4.3,0.85,4
+Laetitia Castagné,https://openalex.org/A5044817205,Commissariat à l'Énergie Atomique et aux Énergies Alternatives,0,0,9,33,2,4.1,0.46,5
+Won-Kyoung Choi,https://openalex.org/A5110208729,Samsung Electronics,0,2,4,23,2,4.1,1.02,2
+Xiaodong Jian,https://openalex.org/A5070969756,China Electronic Product Reliability and Environmental Test Institute,0,0,4,19,2,4.0,1.01,4
+Teny Shih,https://openalex.org/A5021349779,Siliconware Precision Industries,0,0,8,23,2,4.0,0.5,7
+Yi-Quan Lin,https://openalex.org/A5102677784,National Yang Ming Chiao Tung University,1,0,4,11,2,3.9,0.98,4
+Guang-Chao Lyu,https://openalex.org/A5017144856,South China University of Technology,0,0,5,25,2,3.9,0.78,4
+Shenglin Ma,https://openalex.org/A5100766616,Xiamen University,1,1,5,11,2,3.9,0.78,1
+Mathias Boettcher,https://openalex.org/A5039866554,Fraunhofer Institute for Reliability and Microintegration,0,0,4,31,2,3.8,0.96,2
+Muhannad S. Bakir,https://openalex.org/A5044507102,Georgia Institute of Technology,0,5,7,18,2,3.7,0.54,6
+Seung-Uk Choi,https://openalex.org/A5024339446,Pohang University of Science and Technology,2,0,4,8,2,3.6,0.9,4
+Prayudi Lianto,https://openalex.org/A5039989567,Applied Materials,1,0,4,26,2,3.5,0.87,2
+Feng Lung Chien,https://openalex.org/A5088425863,Siliconware Precision Industries,0,4,4,15,2,3.4,0.86,3
+Fumi Nakamura,https://openalex.org/A5031095655,National Institute of Advanced Industrial Science and Technology,2,0,7,10,2,3.3,0.47,7
+Haruhiko Kuwatsuka,https://openalex.org/A5007125650,National Institute of Advanced Industrial Science and Technology,0,0,5,10,2,3.3,0.65,5
+Jen-Kuang Fang,https://openalex.org/A5038398963,Advanced Semiconductor Engineering,2,9,15,25,2,3.2,0.22,13
+Kim Dae-Woo,https://openalex.org/A5014981582,Samsung Electronics,0,1,4,21,2,3.2,0.79,2
+Hisashi Ogasawara,https://openalex.org/A5055789295,"Toray Industries, Inc.",0,0,4,26,2,3.1,0.77,2
+Yoichiro Kurita,https://openalex.org/A5112421172,Institute of Science Tokyo,0,5,7,13,2,3.1,0.44,5
+Zhiming Chen,https://openalex.org/A5100325698,Beijing Institute of Technology,0,1,4,33,2,3.1,0.77,1
+Yi-Gyeong Kim,https://openalex.org/A5037452550,Electronics and Telecommunications Research Institute,0,0,4,15,2,3.0,0.74,4
+Chi Zhang,https://openalex.org/A5021072208,Peking University,0,1,7,17,2,3.0,0.43,7
+Ching-Feng Yu,https://openalex.org/A5110930682,National United University,4,0,5,33,2,3.0,0.59,4
+Ken-ichiro Shinoda,https://openalex.org/A5079430875,Canon,2,0,4,18,2,3.0,0.75,3
+Lang Chen,https://openalex.org/A5023705606,Peking University,1,1,6,16,2,2.8,0.46,6
+Gang Wang,https://openalex.org/A5100367308,China Electronics Technology Group Corporation,0,0,4,13,2,2.7,0.67,3
+Nicholas Kao,https://openalex.org/A5108420152,Siliconware Precision Industries,0,0,4,23,2,2.7,0.68,3
+Soh Siew Boon,https://openalex.org/A5018541385,"Agency for Science, Technology and Research",1,0,4,20,2,2.7,0.66,2
+Lin Bu,https://openalex.org/A5102717054,"Agency for Science, Technology and Research",3,0,4,24,2,2.7,0.68,0
+Zuohuan Chen,https://openalex.org/A5069562923,Xiamen University,3,0,4,28,2,2.6,0.65,1
+Martin Richard Niessner,https://openalex.org/A5087963602,Infineon Technologies,0,0,7,20,2,2.6,0.37,3
+Jisoo Hwang,https://openalex.org/A5101737980,Samsung Electronics,1,0,4,24,2,2.5,0.63,2
+Roman Holly,https://openalex.org/A5076147175,EV Group,0,0,4,12,2,2.5,0.62,2
+Tobias Zenger,https://openalex.org/A5035970517,EV Group,0,0,5,12,2,2.5,0.5,3
+Jeffrey Yang,https://openalex.org/A5059643984,Advanced Semiconductor Engineering,0,1,7,18,2,2.4,0.35,5
+Michiel van Soestbergen,https://openalex.org/A5081074933,NXP,2,0,4,9,2,2.4,0.59,2
+Benoît Lambert,https://openalex.org/A5109583217,United Monolithic Semiconductor,0,0,6,8,2,2.4,0.4,6
+MD Arafat Kabir,https://openalex.org/A5101142826,University of Arkansas at Fayetteville,3,0,4,17,2,2.3,0.58,1
+Yarui Peng,https://openalex.org/A5070766006,University of Arkansas at Fayetteville,0,3,4,17,2,2.3,0.58,1
+Koichi Hasegawa,https://openalex.org/A5091132761,JSR,0,3,4,20,2,2.2,0.54,0
+Wen‐Yi Lin,https://openalex.org/A5100855105,Taiwan Semiconductor Manufacturing Company,1,0,4,18,2,2.2,0.55,2
+Takashi Yamaguchi,https://openalex.org/A5003011690,"Arakawa Chemical Industries, Ltd.",0,0,4,10,2,2.1,0.53,4
+Hsiao Hsiang Yao,https://openalex.org/A5022532673,"Agency for Science, Technology and Research",0,1,5,15,2,2.1,0.42,2
+Norhanani Binte Jaafar,https://openalex.org/A5080715410,"Agency for Science, Technology and Research",0,3,5,11,2,2.1,0.41,3
+Keeyoung Son,https://openalex.org/A5001054193,Korea Advanced Institute of Science and Technology,0,0,5,11,2,2.0,0.4,5
+Frank Kuechenmeister,https://openalex.org/A5108146531,GlobalFoundries,0,0,4,15,2,2.0,0.5,2
+Seiya Miura,https://openalex.org/A5050798952,Canon,0,5,5,15,2,2.0,0.4,1
+Gerhard Haubner,https://openalex.org/A5029635628,Infineon Technologies,0,0,4,17,2,2.0,0.5,1
+Rémi Vélard,https://openalex.org/A5112464677,Commissariat à l'Énergie Atomique et aux Énergies Alternatives,0,0,7,14,2,1.9,0.27,4
+Serine Soh Siew Boon,https://openalex.org/A5053796699,"Agency for Science, Technology and Research",4,0,6,13,2,1.9,0.31,4
+Jianwei Xian,https://openalex.org/A5109787235,South China University of Technology,3,0,5,6,2,1.9,0.38,5
+Chang Liu,https://openalex.org/A5100353307,Tohoku University,1,0,5,9,2,1.8,0.36,5
+Chenhong Sun,https://openalex.org/A5063326689,University of Science and Technology of China,4,0,4,11,2,1.7,0.43,4
+Frank Ellinger,https://openalex.org/A5049816054,Technische Universität Dresden,0,0,5,14,2,1.7,0.35,3
+Hung-Ming Chen,https://openalex.org/A5021615416,National Yang Ming Chiao Tung University,0,2,6,7,2,1.7,0.28,3
+Ming-Sheng Luo,https://openalex.org/A5113174858,South China University of Technology,1,0,4,5,2,1.6,0.41,4
+Ben-Je Lwo,https://openalex.org/A5047623248,National Defense University,0,0,5,16,2,1.6,0.32,1
+Zihao Chen,https://openalex.org/A5100434168,Harbin Institute of Technology,3,2,5,14,2,1.6,0.33,0
+Fengwei Dai,https://openalex.org/A5102113678,National Center for Advanced Packaging,0,3,9,18,2,1.6,0.18,7
+Dongdong Shao,https://openalex.org/A5012167409,,0,0,7,12,2,1.6,0.22,5
+Kunpeng Ding,https://openalex.org/A5109704313,,0,5,7,12,2,1.6,0.22,5
+Debbie Claire Sanchez,https://openalex.org/A5080891181,European Research Services,3,1,4,14,2,1.6,0.4,1
+Ryuichiro Kamimura,https://openalex.org/A5012681961,Ulvac,0,5,5,15,2,1.5,0.3,0
+Jiayi Shen,https://openalex.org/A5100766007,Tohoku University,1,0,5,8,2,1.5,0.31,5
+Yeonseop Yu,https://openalex.org/A5034121895,Samsung Electronics,6,0,6,12,2,1.5,0.24,2
+Miyang Kim,https://openalex.org/A5082781704,Samsung Electronics,0,2,4,12,2,1.5,0.37,2
+Ming-Che Hsieh,https://openalex.org/A5088621808,Harbin Institute of Technology,3,0,4,11,2,1.5,0.39,2
+Steven Verhaverbeke,https://openalex.org/A5040827942,Applied Materials,2,0,4,9,2,1.5,0.37,3
+N’Doua Luc Arnaud Kakou,https://openalex.org/A5095064352,XLIM,3,0,4,6,2,1.5,0.37,4
+Raphaël Sommet,https://openalex.org/A5035702141,XLIM,0,1,6,6,2,1.5,0.25,6
+Vincent Bortolussi,https://openalex.org/A5084204193,United Monolithic Semiconductor,0,0,4,6,2,1.5,0.37,4
+Mark D. Losego,https://openalex.org/A5033780527,Georgia Institute of Technology,0,2,7,8,2,1.4,0.2,5
+Franz Selbmann,https://openalex.org/A5005956779,Fraunhofer Institute for Electronic Nano Systems,5,0,9,8,2,1.4,0.16,8
+Harald Kühn,https://openalex.org/A5044556680,Fraunhofer Institute for Electronic Nano Systems,0,5,7,8,2,1.4,0.21,6
+Jong Heon Kim,https://openalex.org/A5101999572,,2,0,4,13,2,1.4,0.35,0
+Xin‐Ping Zhang,https://openalex.org/A5028282324,South China University of Technology,0,6,6,10,2,1.4,0.24,5
+Tony D. Flaim,https://openalex.org/A5045268344,Brewer Science,0,4,4,14,2,1.4,0.36,0
+Lijun Chen,https://openalex.org/A5103699058,National Center for Advanced Packaging,3,0,4,6,2,1.4,0.34,2
+Ki‐Moon Park,https://openalex.org/A5016355289,Hanyang University,3,0,4,13,2,1.3,0.33,0
+Ilya A. Solovyov,https://openalex.org/A5092921216,National Research University of Electronic Technology,0,1,4,5,2,1.3,0.31,4
+Denis V. Vertyanov,https://openalex.org/A5110548994,National Research University of Electronic Technology,0,1,5,5,2,1.3,0.25,5
+Mehmet Kaynak,https://openalex.org/A5016289100,Leibniz Institute for High Performance Microelectronics,0,4,4,11,2,1.3,0.31,0
+Kazuyuki Matsumura,https://openalex.org/A5056293695,"Toray Industries, Inc.",0,0,4,12,2,1.3,0.32,1
+Matthias Wietstruck,https://openalex.org/A5011390917,Leibniz Institute for High Performance Microelectronics,2,0,4,10,2,1.2,0.29,1
+Hitoshi Onozeki,https://openalex.org/A5066605055,Resonac,1,0,5,9,2,1.2,0.25,3
+Gahui Kim,https://openalex.org/A5064634219,Gyeongkuk National University,2,0,4,8,2,1.2,0.3,2
+Kirak Son,https://openalex.org/A5109468946,Gyeongkuk National University,2,0,4,8,2,1.2,0.3,2
+Young-Bae Park,https://openalex.org/A5066865183,Gyeongkuk National University,0,3,4,8,2,1.2,0.3,2
+Yi‐Sheng Lin,https://openalex.org/A5113145392,Advanced Semiconductor Engineering,2,1,10,6,2,1.2,0.12,7
+Piotr Mackowiak,https://openalex.org/A5067326722,Fraunhofer Institute for Reliability and Microintegration,3,0,4,12,2,1.2,0.3,0
+Yoshinori Matsuura,https://openalex.org/A5042409733,Mitsui Mining & Smelting,4,0,4,6,2,1.1,0.28,3
+Sophia Oldeide,https://openalex.org/A5032895455,European Research Services,2,0,4,10,2,1.1,0.27,0
+Klemens Reitinger,https://openalex.org/A5034408185,European Research Services,0,2,4,10,2,1.1,0.27,0
+Job Ha,https://openalex.org/A5100883069,Samsung Electronics,0,0,4,10,2,1.1,0.27,0
+Christian Hoyer,https://openalex.org/A5072097485,Technische Universität Dresden,0,0,4,8,2,1.0,0.25,3
+Ghanshyam Gadhiya,https://openalex.org/A5061359366,Fraunhofer Institute for Electronic Nano Systems,4,0,5,10,2,1.0,0.21,0
+Takenori Fujiwara,https://openalex.org/A5042264531,"Toray Industries, Inc.",3,0,5,9,2,0.9,0.18,2
+Mingtzung Kuo,https://openalex.org/A5061901827,Advanced Semiconductor Engineering,0,0,5,6,2,0.9,0.17,4
+Yoshiharu Kariya,https://openalex.org/A5103474228,Shibaura Institute of Technology,0,7,7,9,2,0.9,0.13,1
+Ziyu Liu,https://openalex.org/A5112926062,Fudan University,1,0,4,9,2,0.9,0.23,2
+Qian Wang,https://openalex.org/A5100391183,Tsinghua University,0,0,4,8,2,0.9,0.24,1
+Dominique Drouin,https://openalex.org/A5083531118,Université de Sherbrooke,0,4,4,6,2,0.9,0.23,4
+Sylvain I. Misat,https://openalex.org/A5065401093,Onto Innovation,2,0,4,9,2,0.9,0.23,2
+Jeroen de Boeij,https://openalex.org/A5066135860,Onto Innovation,0,0,4,9,2,0.9,0.23,2
+Michiel van der Stam,https://openalex.org/A5065675156,Onto Innovation,0,2,4,9,2,0.9,0.23,2
+Jing Jiang,https://openalex.org/A5014168519,,2,3,5,10,2,0.9,0.17,3
+Aurélia Plihon,https://openalex.org/A5037181223,Commissariat à l'Énergie Atomique et aux Énergies Alternatives,2,0,5,8,2,0.8,0.16,1
+Jean-Charles Souriau,https://openalex.org/A5066876755,Commissariat à l'Énergie Atomique et aux Énergies Alternatives,2,0,5,7,2,0.7,0.13,2
+Dongshun Bai,https://openalex.org/A5075337603,Brewer Science,1,0,4,6,2,0.7,0.17,2
+Yu-Jen Chang,https://openalex.org/A5101269031,Advanced Semiconductor Engineering,2,0,4,4,2,0.7,0.17,3
+Yufeng Jin,https://openalex.org/A5104079377,Peking University,0,3,4,7,2,0.6,0.16,0
+Habib Hichri,https://openalex.org/A5029258038,,2,2,6,5,2,0.5,0.09,1
+Markus Arendt,https://openalex.org/A5036657741,,2,1,6,5,2,0.5,0.09,1
+Yong Ji,https://openalex.org/A5040674739,China Electronics Technology Group Corporation,0,0,5,2,1,9.1,1.83,3
+San Sandra,https://openalex.org/A5104335905,"Agency for Science, Technology and Research",0,0,7,16,1,8.3,1.18,7
+Hyunggyu Park,https://openalex.org/A5102695084,Georgia Institute of Technology,2,0,4,4,1,5.9,1.48,4
+S. Piotrowicz,https://openalex.org/A5083660567,III V Lab,1,0,7,26,1,3.7,0.52,6
+Changle Zhi,https://openalex.org/A5049352548,Xidian University,2,0,5,19,1,2.9,0.57,4
+Wiwy Wudjud,https://openalex.org/A5138804942,Advanced Semiconductor Engineering,2,0,5,11,1,2.7,0.54,5
+Leong Ching Wai,https://openalex.org/A5110601738,"Agency for Science, Technology and Research",2,0,4,20,1,2.3,0.57,1
+Alexander Gäbler,https://openalex.org/A5098932101,Fraunhofer Institute for Reliability and Microintegration,1,0,4,8,1,2.2,0.54,4
+Marius Adler,https://openalex.org/A5041619350,Fraunhofer Institute for Reliability and Microintegration,3,0,4,8,1,2.2,0.54,4
+Varun Thukral,https://openalex.org/A5080974233,NXP,2,0,5,5,1,2.0,0.41,4
+Anass Jakani,https://openalex.org/A5055468588,III V Lab,1,0,6,6,1,1.9,0.31,6
+En‐Xiao Liu,https://openalex.org/A5079672732,"Agency for Science, Technology and Research",0,0,5,4,1,1.8,0.36,5
+JeongMin Ju,https://openalex.org/A5112973271,Amkor Technology,1,0,4,11,1,1.7,0.43,4
+Ao Zhong,https://openalex.org/A5066730605,Chinese Academy of Sciences,1,1,4,20,1,1.7,0.43,1
+Naoki Matsui,https://openalex.org/A5045929348,Kyocera,1,0,4,6,1,1.5,0.37,4
+Dan Maeda,https://openalex.org/A5018716260,Kyocera,0,0,4,6,1,1.5,0.37,4
+Tomoya Sugita,https://openalex.org/A5002483870,Kyocera,0,0,4,6,1,1.5,0.37,4
+Hirotaka Uemura,https://openalex.org/A5003927355,Kyocera,0,1,4,6,1,1.5,0.37,4
+Dingjie Lu,https://openalex.org/A5040271754,"Agency for Science, Technology and Research",3,0,5,5,1,1.4,0.29,5
+N. Sridhar,https://openalex.org/A5081889826,"Agency for Science, Technology and Research",0,4,4,5,1,1.4,0.36,4
+Zhen Zhuang,https://openalex.org/A5102807912,Chinese University of Hong Kong,1,0,4,3,1,1.3,0.34,4
+Xinqing Lei,https://openalex.org/A5114231957,Xidian University,4,0,5,3,1,1.3,0.27,5
+Jia-Ao Chen,https://openalex.org/A5111337168,South China University of Technology,2,0,4,3,1,1.1,0.29,4
+Sungdong Kim,https://openalex.org/A5109196469,Seoul National University of Science and Technology,0,2,5,9,1,1.0,0.21,1
+Chia Lai Yee,https://openalex.org/A5006808816,"Agency for Science, Technology and Research",2,0,6,4,1,1.0,0.16,6
+Ying Ying Lim,https://openalex.org/A5016675330,National Institute of Advanced Industrial Science and Technology,3,0,5,4,1,1.0,0.2,5
+Shunsuke Nemoto,https://openalex.org/A5014817787,Kanagawa Institute of Industrial Science and Technology,0,1,4,4,1,1.0,0.25,4
+Кочергин Михаил Дмитриевич,https://openalex.org/A5049515288,National Research University of Electronic Technology,2,0,6,3,1,0.9,0.16,6
+Kentaro Mori,https://openalex.org/A5101396802,Toshiba,3,0,4,8,1,0.9,0.23,1
+Amy Palesko Lujan,https://openalex.org/A5019070885,,9,0,9,7,1,0.9,0.1,6
+Nishant Lakhera,https://openalex.org/A5062483833,NXP,0,3,8,7,1,0.9,0.12,5
+Mohamed Bouslama,https://openalex.org/A5059585051,III V Lab,2,0,6,2,1,0.9,0.15,6
+Louiza Hamidouche,https://openalex.org/A5038857926,III V Lab,0,0,4,2,1,0.9,0.22,4
+Gildas Gauthier,https://openalex.org/A5039493365,III V Lab,0,4,4,2,1,0.9,0.22,4
+Frank Roscher,https://openalex.org/A5103949163,Fraunhofer Institute for Electronic Nano Systems,0,0,7,4,1,0.8,0.12,6
+Maik D. Wiemer,https://openalex.org/A5070372179,Fraunhofer Institute for Electronic Nano Systems,0,1,4,4,1,0.8,0.21,3
+Daoguo Yang,https://openalex.org/A5100735953,Guilin University of Electronic Technology,0,4,6,8,1,0.8,0.14,5
+Minghao Shen,https://openalex.org/A5059696065,,1,2,4,7,1,0.8,0.2,0
+Cheng‐Tar Wu,https://openalex.org/A5044272801,,1,0,5,7,1,0.8,0.16,0
+Junbo Jiang,https://openalex.org/A5110004804,,1,0,4,7,1,0.8,0.2,0
+Mollie Benson,https://openalex.org/A5011513196,NXP,0,2,6,7,1,0.8,0.13,2
+Tomo Odashima,https://openalex.org/A5071392216,Tohoku University,2,0,5,7,1,0.8,0.17,0
+Sarah Eunkyung Kim,https://openalex.org/A5038612664,Seoul National University of Science and Technology,0,4,6,7,1,0.7,0.12,1
+Toshihisa Nonaka,https://openalex.org/A5110697192,Hitachi,1,3,4,7,1,0.7,0.18,0
+Kenta Ono,https://openalex.org/A5031321383,Shibaura Institute of Technology,4,0,6,5,1,0.6,0.1,0
+Imants Cirulis,https://openalex.org/A5039164356,Fraunhofer Institute for Electronic Nano Systems,3,0,4,4,1,0.6,0.16,4
+Uwe Zschenderlein,https://openalex.org/A5018698234,Chemnitz University of Technology,0,0,4,4,1,0.6,0.16,4
+Abhijit Dasgupta,https://openalex.org/A5074203487,"University of Maryland, College Park",0,2,4,5,1,0.6,0.14,3
+Kei Togasaki,https://openalex.org/A5094179123,Resonac,3,0,4,3,1,0.6,0.16,4
+Cheng-Hsin Liu,https://openalex.org/A5102750622,Advanced Semiconductor Engineering,2,1,6,3,1,0.6,0.1,5
+Saminda Dharmarathna,https://openalex.org/A5108463588,,3,0,4,1,1,0.4,0.11,4
+Leslie Kim,https://openalex.org/A5068806618,,0,0,4,1,1,0.4,0.11,4
+Richard Xian‐Ke Gao,https://openalex.org/A5024626821,"Agency for Science, Technology and Research",0,0,4,1,1,0.4,0.11,4
+Guanqiang Song,https://openalex.org/A5068728302,,1,0,4,5,1,0.4,0.11,3
+Chao-Kai Hsu,https://openalex.org/A5102136883,Industrial Technology Research Institute,1,0,5,2,1,0.3,0.06,5
+Yu‐Hsiang Hsiao,https://openalex.org/A5030483217,Advanced Semiconductor Engineering,0,3,5,3,1,0.3,0.06,2
+Lin‐Sheng Wu,https://openalex.org/A5081467499,Shanghai Jiao Tong University,0,1,4,1,1,0.2,0.06,4
+Changmin Song,https://openalex.org/A5009762729,Seoul National University of Science and Technology,4,0,4,2,1,0.2,0.05,0
+Liang-Pin Chen,https://openalex.org/A5069880468,Siliconware Precision Industries,0,5,5,2,1,0.2,0.05,0
+Craig Beddingfield,https://openalex.org/A5004762812,NXP,0,0,4,1,1,0.2,0.06,3
+Jay Zhang,https://openalex.org/A5101529821,Corning,2,1,4,2,1,0.2,0.04,2
+Arthur Southard,https://openalex.org/A5025141259,Brewer Science,1,1,4,1,1,0.1,0.02,2
+Charles Woychik,https://openalex.org/A5109499432,NHanced Semiconductors,5,1,6,1,1,0.1,0.02,4
+Justin Borski,https://openalex.org/A5037594988,,0,0,4,1,1,0.1,0.03,2
+Robert Nead,https://openalex.org/A5075489199,,0,4,4,1,1,0.1,0.03,2
+Steven R. Martell,https://openalex.org/A5114169255,Nordson,3,0,4,0,0,0.0,0.0,4
+Masahiro Tsuriya,https://openalex.org/A5011502994,Intel,0,4,4,0,0,0.0,0.0,4
+Gaolin Li,https://openalex.org/A5088183280,,0,0,4,0,0,0.0,0.0,2
+Shelby F. Nelson,https://openalex.org/A5090390688,Mosaic,3,0,4,0,0,0.0,0.0,4
+Andrew Kang,https://openalex.org/A5138385270,Siliconware Precision Industries,0,1,4,0,0,0.0,0.0,4
+Georgios C. Dogiamis,https://openalex.org/A5001486682,Arizona State University,2,1,4,0,0,0.0,0.0,4
+Ping-Ching Shen,https://openalex.org/A5052081941,Advanced Semiconductor Engineering,2,3,5,0,0,0.0,0.0,5
+Ping‐Feng Yang,https://openalex.org/A5108608665,Advanced Semiconductor Engineering,0,0,9,0,0,0.0,0.0,9
+Chin-Pin Hung,https://openalex.org/A5108322239,Advanced Semiconductor Engineering,0,3,5,0,0,0.0,0.0,5
+Don Son Jiang,https://openalex.org/A5111601885,Siliconware Precision Industries,0,4,4,0,0,0.0,0.0,4
+Wei Feng,https://openalex.org/A5026194400,National Institute of Advanced Industrial Science and Technology,2,0,4,0,0,0.0,0.0,4
+Ken-ichi Nomura,https://openalex.org/A5076981798,National Institute of Advanced Industrial Science and Technology,0,1,4,0,0,0.0,0.0,4

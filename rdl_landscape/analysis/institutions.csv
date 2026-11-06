@@ -1,0 +1,157 @@
+﻿institution,type,countries,papers,cites,h,ncites_sum,ncites_mean,recent_23_26,score
+Chinese Academy of Sciences,government,CN,89,863,19,144.6,1.63,44,0.996
+Georgia Institute of Technology,education,US,67,900,17,140.7,2.1,30,0.983
+"Agency for Science, Technology and Research",government,SG,125,723,13,92.3,0.74,44,0.982
+Advanced Semiconductor Engineering,company,TW,83,543,15,80.5,0.97,43,0.974
+Institute of Microelectronics [SG],facility,SG,119,707,13,84.7,0.71,40,0.973
+Taiwan Semiconductor Manufacturing Company,company,CN;TW;US,44,716,14,102.2,2.32,16,0.967
+Samsung Electronics,company,JP;KR,68,603,13,79.8,1.17,28,0.96
+Fraunhofer Institute for Reliability and Microintegration,facility,DE,80,517,12,61.4,0.77,30,0.948
+Technische Universität Berlin,education,DE,52,435,12,48.9,0.94,13,0.935
+ASM Pacific Technology,company,CN,31,816,13,85.9,2.77,3,0.934
+Institute of Microelectronics [CN],facility,CN,34,474,12,89.3,2.63,17,0.932
+Xidian University,education,CN,34,312,12,68.5,2.01,23,0.919
+Industrial Technology Research Institute,nonprofit,TW,44,313,11,47.1,1.07,23,0.917
+Shenzhen Institutes of Advanced Technology,facility,CN,46,343,10,44.6,0.97,21,0.905
+National Tsing Hua University,education,TW,35,305,10,47.5,1.36,18,0.899
+University of Chinese Academy of Sciences,education,CN,38,325,10,46.1,1.21,16,0.894
+Shenzhen Institute of Advanced Electronic Materials,facility,CN,42,334,10,43.5,1.04,20,0.892
+Hong Kong University of Science and Technology,education,HK,23,474,11,53.0,2.31,4,0.89
+National Cheng Kung University,education,TW,31,235,8,73.4,2.37,19,0.885
+National Yang Ming Chiao Tung University,education,TW,41,248,9,42.8,1.04,21,0.878
+IMEC,nonprofit,BE,49,259,8,37.3,0.76,25,0.869
+China Electronics Technology Group Corporation,company,CN,40,149,8,38.2,0.96,25,0.857
+Siliconware Precision Industries,company,TW,40,196,9,25.5,0.64,20,0.849
+National Taiwan University,education,TW,20,198,9,28.9,1.45,9,0.816
+"University of California, Los Angeles",education,US,25,214,8,24.2,0.97,6,0.814
+Xiamen University,education,CN,27,190,7,28.6,1.06,10,0.808
+Intel,company,DE;MY;TW;US,22,102,6,45.1,2.05,16,0.803
+Southeast University,education,CN,16,311,8,42.9,2.68,11,0.802
+University of Science and Technology of China,education,CN,18,209,7,29.4,1.63,13,0.778
+Fudan University,education,CN,21,137,7,24.2,1.15,13,0.775
+Indium Corporation,company,US,13,438,8,43.7,3.36,0,0.774
+Korea Advanced Institute of Science and Technology,education,KR,17,247,7,28.3,1.66,9,0.765
+University of Electronic Science and Technology of China,education,CN,24,81,6,23.5,0.98,21,0.765
+National Center for Advanced Packaging,company,CN,19,204,7,22.9,1.21,7,0.761
+Amkor Technology,company,PT;US,22,170,7,18.3,0.83,3,0.761
+Brewer Science,company,US,24,135,7,14.5,0.6,5,0.746
+Nanyang Technological University,education,SG,13,269,7,41.3,3.18,4,0.744
+Commissariat à l'Énergie Atomique et aux Énergies Alternatives,government,FR,24,108,6,17.5,0.73,8,0.741
+National Sun Yat-sen University,education,TW,15,138,6,34.1,2.27,11,0.734
+Dow Chemical,company,US,11,404,8,40.3,3.66,0,0.731
+Laboratoire d'Électronique des Technologies de l'Information,government,FR,22,106,6,17.1,0.78,6,0.728
+Delft University of Technology,education,NL,14,166,7,22.2,1.59,8,0.717
+Hanyang University,education,KR,21,44,4,43.7,2.08,14,0.712
+Infineon Technologies,company,AT;DE,17,116,7,14.0,0.83,4,0.707
+Arizona State University,education,US,16,84,4,50.1,3.13,16,0.704
+Applied Materials,company,IL;SG;US,19,98,5,18.8,0.99,12,0.697
+Huawei Technologies,company,CA;CN,11,374,6,37.1,3.37,2,0.683
+Pennsylvania State University,education,US,15,122,5,22.9,1.53,15,0.678
+GlobalFoundries,company,DE;SG;US,14,90,7,11.6,0.83,4,0.657
+Institute of Materials Research and Engineering,facility,SG,12,109,8,12.0,1.0,1,0.655
+Shanghai Jiao Tong University,education,CN,13,81,5,22.0,1.69,10,0.651
+Florida International University,education,US,13,111,6,13.8,1.06,4,0.641
+South China University of Technology,education,CN,18,48,4,18.1,1.01,16,0.638
+Panasonic,company,JP,10,171,6,19.7,1.97,1,0.635
+Tohoku University,education,JP,21,93,4,15.7,0.75,13,0.634
+"Taiyo INK MFG. Co., Ltd.",company,JP,12,125,5,17.1,1.43,6,0.613
+Ulvac,company,JP,18,51,5,8.2,0.46,6,0.61
+Wuhan University,education,CN,9,225,4,46.5,5.17,6,0.601
+Harbin Institute of Technology,education,CN,15,63,5,10.7,0.71,6,0.599
+Dai Nippon Printing,company,JP,15,72,5,10.6,0.71,11,0.596
+Zhejiang University,education,CN,10,96,5,17.2,1.72,8,0.589
+MediaTek,company,CN;TW,12,120,5,13.3,1.11,2,0.589
+Shenzhen University,education,CN,9,88,6,13.6,1.51,3,0.579
+Université Grenoble Alpes,education,FR,10,75,5,13.9,1.39,3,0.567
+Massachusetts Institute of Technology,education,US,7,99,5,24.9,3.56,6,0.563
+Xi'an University of Technology,education,CN,12,49,4,16.1,1.35,6,0.56
+CEA Grenoble,government,FR,10,60,5,11.8,1.18,3,0.55
+SK Hynix,company,KR,13,85,4,11.9,0.92,7,0.548
+Canon,company,JP;US,13,51,5,6.8,0.52,3,0.535
+Purple Mountain Laboratories,facility,CN,6,167,5,28.2,4.71,4,0.531
+Technische Universität Dresden,education,DE,15,48,5,5.3,0.35,8,0.529
+Southern University of Science and Technology,education,CN,15,44,4,7.6,0.51,10,0.526
+National Institute of Advanced Industrial Science and Technology,government,JP,17,29,4,6.6,0.39,13,0.521
+Hangzhou Dianzi University,education,CN,12,57,4,10.8,0.9,8,0.515
+Hong Kong Polytechnic University,education,HK,7,76,5,14.2,2.02,7,0.514
+"Toray Industries, Inc.",company,JP,12,59,5,6.6,0.55,4,0.513
+Feng Chia University,education,TW,8,114,4,16.1,2.01,3,0.502
+Lamar University,education,US,8,57,5,10.0,1.25,6,0.491
+Pohang University of Science and Technology,education,KR,13,41,3,11.2,0.86,12,0.483
+Guangdong University of Technology,education,CN,13,47,4,6.6,0.5,8,0.481
+China Academy of Engineering Physics,facility,CN,9,136,3,17.8,1.98,8,0.473
+Veeco,company,US,8,60,5,7.2,0.9,4,0.471
+Fraunhofer Institute for Electronic Nano Systems,facility,DE,15,34,4,4.5,0.3,8,0.463
+EV Group,company,AT,11,35,4,7.0,0.64,6,0.459
+City University of Hong Kong,education,HK,6,102,4,19.2,3.2,6,0.458
+Seoul National University,education,KR,8,35,4,10.4,1.3,4,0.448
+Murata,company,FI;JP,7,67,5,7.1,1.01,0,0.44
+IBM,company,CA;US,8,50,4,8.1,1.01,7,0.437
+National Formosa University,education,TW,8,73,4,8.0,1.0,5,0.434
+Shanghai Institute of Microsystem and Information Technology,facility,CN,9,50,4,6.9,0.77,5,0.428
+STATS ChipPAC,company,SG,11,44,4,5.2,0.47,2,0.422
+Corning,company,KR;US,10,59,3,10.2,1.02,8,0.42
+Tsinghua University,education,CN,11,20,4,5.1,0.46,8,0.419
+Shinko Electric Industries,company,JP,7,105,3,15.3,2.18,4,0.413
+Korea Electronics Technology Institute,facility,KR,7,29,4,7.7,1.1,6,0.403
+Onto Innovation,company,US,15,18,3,4.0,0.26,11,0.401
+Chemnitz University of Technology,education,DE,10,35,4,4.6,0.46,8,0.399
+NXP,company,DE;FR;NL;US,16,23,3,3.0,0.19,9,0.394
+Beijing University of Technology,education,CN,9,29,3,7.5,0.83,6,0.386
+Huazhong University of Science and Technology,education,CN,7,60,3,11.4,1.63,4,0.384
+Beijing Institute of Technology,education,CN,9,44,3,7.4,0.82,4,0.384
+Resonac,company,JP,12,23,3,5.2,0.43,12,0.38
+All Silicon System Integration Dresden,facility,DE,7,45,4,6.2,0.89,4,0.372
+Sungkyunkwan University,education,KR,11,44,3,5.3,0.48,4,0.371
+Peking University,education,CN,13,24,3,3.6,0.28,9,0.371
+Jiangsu Changjiang Electronics Technology,company,CN,10,35,3,5.7,0.57,7,0.36
+United Monolithic Semiconductor,company,FR,9,40,3,6.1,0.67,7,0.356
+Tokyo Ohka Kogyo,company,JP,6,61,4,7.1,1.18,2,0.355
+Centre National de la Recherche Scientifique,government,FR,7,24,4,4.4,0.63,6,0.334
+China Electronic Product Reliability and Environmental Test Institute,facility,CN,7,35,3,6.6,0.94,7,0.323
+Toshiba,company,JP,7,18,2,10.9,1.55,2,0.317
+Leibniz Institute for High Performance Microelectronics,facility,DE,7,57,3,6.2,0.89,1,0.316
+National University of Singapore,education,SG,7,14,2,10.7,1.53,4,0.31
+Northwestern Polytechnical University,education,CN,6,11,2,13.2,2.2,6,0.3
+"University of Maryland, College Park",education,US,7,25,3,4.7,0.67,3,0.287
+The Hong Kong University of Science and Technology (Guangzhou),education,CN,5,40,3,8.0,1.61,2,0.274
+Micron,company,TW;US,6,20,3,5.8,0.96,4,0.271
+Shanghai University,education,CN,6,78,2,10.0,1.67,5,0.263
+Jiangnan University,education,CN,5,19,2,12.2,2.43,4,0.257
+Electronics and Telecommunications Research Institute,facility,KR,6,21,3,4.8,0.8,6,0.253
+Siemens,company,DE;US,7,56,2,5.8,0.82,2,0.248
+"Shinko Electric Co., Ltd.",company,JP,5,96,2,11.2,2.25,2,0.244
+Seoul National University of Science and Technology,education,KR,8,16,2,3.9,0.48,3,0.24
+National United University,education,TW,5,24,2,10.8,2.16,5,0.237
+State Key Laboratory of Transducer Technology,government,CN,6,22,3,3.8,0.63,4,0.234
+Ulsan National Institute of Science and Technology,education,KR,5,22,3,5.8,1.17,4,0.231
+Hitachi,company,JP,6,23,3,2.4,0.41,1,0.213
+Guilin University of Electronic Technology,education,CN,7,23,2,3.2,0.46,6,0.202
+STMicroelectronics,company,FR;IT,5,20,3,3.3,0.67,3,0.188
+Namics Corporation,company,JP,7,14,2,1.8,0.25,3,0.181
+Chalmers University of Technology,education,SE,5,21,3,2.5,0.51,3,0.174
+Gyeongkuk National University,education,KR,5,9,2,5.8,1.15,3,0.171
+National Research University of Electronic Technology,education,RU,7,5,2,1.3,0.18,7,0.17
+Besi,company,NL,5,17,3,1.9,0.38,1,0.166
+Shibaura Institute of Technology,education,JP,7,9,2,0.9,0.13,1,0.161
+Institute of High Performance Computing,facility,SG,6,8,2,2.8,0.46,6,0.157
+Beijing Information Science & Technology University,education,CN,6,16,2,2.0,0.34,3,0.149
+Chinese University of Hong Kong,education,HK,5,10,2,4.5,0.9,5,0.145
+Xiamen University of Technology,education,CN,5,19,2,4.0,0.81,5,0.139
+XLIM,facility,FR,6,6,2,1.5,0.25,6,0.139
+Université de Limoges,education,FR,6,6,2,1.5,0.25,6,0.139
+Sejong University,education,KR,5,20,2,3.3,0.66,5,0.128
+Fuzhou University,education,CN,7,3,1,0.9,0.13,7,0.124
+Beihang University,education,CN,5,14,2,3.0,0.59,3,0.121
+Osaka Metropolitan University,education,JP,5,12,2,3.0,0.61,4,0.121
+Institute of Science Tokyo,education,JP,6,5,1,2.2,0.37,6,0.113
+National Defense University,education,TW,5,16,2,1.6,0.32,1,0.101
+Atotech,company,DE,5,13,2,1.3,0.26,0,0.093
+JSR,company,JP,5,13,2,1.3,0.25,0,0.093
+Asahi Kasei,company,JP,5,9,2,0.9,0.19,2,0.084
+Université de Sherbrooke,education,CA,5,6,2,0.9,0.19,4,0.084
+Institut interdisciplinaire d'innovation technologique,facility,CA,5,6,2,0.9,0.19,4,0.084
+Renesas Electronics,company,JP;US,6,3,1,0.6,0.1,5,0.079
+SPTS Technologies,company,GB,5,7,2,0.7,0.14,0,0.078
+Cadence Design Systems,company,US,5,3,1,0.4,0.08,2,0.036
+Advanced Micro Devices,company,SG;US,5,4,1,0.3,0.07,4,0.034
