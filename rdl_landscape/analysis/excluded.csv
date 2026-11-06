@@ -1,0 +1,121 @@
+﻿reason,year,cited_by,type,title,work_id
+review/book,2023,66,review,A Review of Polymer Dielectrics for Redistribution Layers in Interposers and Package Substrates,https://openalex.org/W4387100971
+battery,2022,119,article,Li4Ti5O12 Coating on Copper Foil as Ion Redistributor Layer for Stable Lithium Metal Anode,https://openalex.org/W4214710560
+review/book,2025,21,article,Reliability Study of Critical Structural Redistribution Layers in Advanced Packaging: A Review,https://openalex.org/W4409357127
+review/book,2024,0,erratum,"Correction: Nimbalkar et al. A Review of Polymer Dielectrics for Redistribution Layers in Interposers and Package Substrates. Polymers 2023, 15, 3895",https://openalex.org/W4402994123
+review/book,2019,86,book,Heterogeneous Integrations,https://openalex.org/W4256077243
+review/book,2022,0,book-chapter,RDL and Flip Chip Design,https://openalex.org/W4285235031
+review/book,2025,0,dataset,"""Hybrid Bonding RLGC Calculation in MATLAB""",https://openalex.org/W7106325465
+review/book,2019,127,article,Recent Advances and Trends in Fan-Out Wafer/Panel-Level Packaging,https://openalex.org/W2927961792
+review/book,2023,0,book-chapter,Effect of Oxidation on Electromigration,https://openalex.org/W4389164557
+review/book,2023,0,book-chapter,Damage of Electromigration,https://openalex.org/W4389164584
+review/book,2018,1,book-chapter,Fan-in Wafer-Level Packaging Versus FOWLP,https://openalex.org/W2795850397
+review/book,2019,50,article,Recent Advances and Trends in Heterogeneous Integrations,https://openalex.org/W2953472377
+review/book,2019,1,book-chapter,Heterogeneous Integrations on Organic Substrates,https://openalex.org/W2929727780
+battery,2019,88,article,Direct Observation of a Li‐Ionic Space‐Charge Layer Formed at an Electrode/Solid‐Electrolyte Interface,https://openalex.org/W2912950767
+review/book,2026,0,book-chapter,Chiplets Connections—Bridges,https://openalex.org/W7162951826
+off_domain,2020,0,conference-paper,Unconventional triple junction solar cells based on micro technologies,https://openalex.org/W3096561858
+off_domain,2025,0,article,Geomorphometry for studying model and experimental surface data,https://openalex.org/W4416754127
+off_domain,2026,0,article,Research of a gantry robot for pushing bulk materials loaded in portions into a container,https://openalex.org/W7204236024
+review/book,2026,0,book-chapter,Glass Packaging,https://openalex.org/W7162955511
+off_domain,2024,0,conference-paper,Towards AI-Assisted Design of Thermal Management Strategies,https://openalex.org/W4408324884
+battery,2019,40,article,Direct Observation of a Li‐Ionic Space‐Charge Layer Formed at an Electrode/Solid‐Electrolyte Interface,https://openalex.org/W4249641606
+review/book,2018,5,book-chapter,FOWLP: Chip-Last or RDL-First,https://openalex.org/W2795730459
+review/book,2020,0,book-chapter,Fundamentals of Electromigration in Interconnects of 3D Packaging,https://openalex.org/W4230002730
+review/book,2025,33,review,Electronic Chip Package and Co-Packaged Optics (CPO) Technology for Modern AI Era: A Review,https://openalex.org/W4409108152
+review/book,2025,11,article,Current Advances and Outlook of Advanced Packaging,https://openalex.org/W4415081022
+review/book,2019,1,book-chapter,Heterogeneous Integrations on Silicon Substrates (Bridges),https://openalex.org/W2929443146
+review/book,2024,84,article,Thermo-mechanical reliability of glass substrate and Through Glass Vias (TGV): A comprehensive review,https://openalex.org/W4401594874
+review/book,2019,8,other,FO‐WLP Market and Technology Trends,https://openalex.org/W2627026333
+battery,2022,25,article,Molecular sieve based Janus separators for Li-ions redistribution to enable stable lithium deposition,https://openalex.org/W4220877391
+review/book,2018,1,book-chapter,FOWLP: Chip-First and Die Face-Up,https://openalex.org/W2795658439
+review/book,2026,0,book-chapter,Advanced Packaging,https://openalex.org/W7162949816
+review/book,2023,0,book-chapter,Effect of Joule Heating on Electromigration,https://openalex.org/W4389164627
+review/book,2018,7,book-chapter,Patent Issues of Fan-Out Wafer-Level Packaging,https://openalex.org/W2795376413
+review/book,2026,0,conference-paper,A Review of Multimodal Vision-Electrical Defect Diagnosis in Advanced Packaging,https://openalex.org/W7167599050
+review/book,2019,3,other,History of Embedded and Fan‐Out Packaging Technology,https://openalex.org/W2936503154
+review/book,2026,0,book-chapter,Packaging,https://openalex.org/W7117973564
+review/book,2026,0,book-chapter,ECD milling of glass for microfluidic and RDL applications,https://openalex.org/W7128502843
+off_domain,2026,0,conference-paper,From Shallow Alignment to Source Correction: Robust Safety Alignment for LLMs,https://openalex.org/W7224540306
+battery,2026,2,article,CMOS-compatible lithium-ion batteries for distributed on-chip power architecture,https://openalex.org/W7140331514
+review/book,2020,12,conference-paper,Recent Advances in Underfill for New Package Architectures,https://openalex.org/W3016091630
+review/book,2026,0,review,"Advanced Electronic Packaging Technologies: A Comparative Review of Architectures, Applications, Reliability",https://openalex.org/W7204705527
+battery,2024,11,article,Efficient mitigation of lithium dendrite by two-dimensional A-type molecular sieve membrane for lithium metal battery,https://openalex.org/W4401539257
+off_domain,2023,12,article,Silicon-Based 3D Microfluidics for Parallelization of Droplet Generation,https://openalex.org/W4382068374
+off_domain,2026,0,conference-paper,Link-Traced Amplification: How Telegram Redistributes YouTube Political Content at Scale,https://openalex.org/W7208831024
+off_domain,2026,0,preprint,Omnidirectional Non-Imaging Concentration Layer for Next-Generation Solar Energy Harvesting,https://openalex.org/W7147135412
+review/book,2026,2,book-chapter,Integrated Circuit Heterogeneous Manufacturing Technology,https://openalex.org/W7129483432
+off_domain,2021,1,preprint,[Reproducibility Report] Rigging the Lottery: Making All Tickets Winners,https://openalex.org/W3142627378
+off_domain,2026,0,conference-paper,Graph-MAPPO for Self-Organized Airship Encirclement and Hotspot Surveillance,https://openalex.org/W7172378965
+review/book,2024,0,book-chapter,Advanced IC packaging design for material inspection,https://openalex.org/W4391472751
+review/book,2026,5,article,Review of glass substrates for co-packaged optics: fabrication and performance of integrated electro-optical structures,https://openalex.org/W7155416420
+off_domain,2026,0,preprint,COMPOT: Calibration-Optimized Matrix Procrustes Orthogonalization for Transformers Compression,https://openalex.org/W7130364970
+review/book,2020,0,conference-paper,Recent Advances in Underfill for New Package Architectures,https://openalex.org/W4416884097
+review/book,2023,31,article,A Critical Review of Lithography Methodologies and Impacts of Topography on 2.5-D/3-D Interposers,https://openalex.org/W4362714507
+off_domain,2026,1,article,Propaganda as infrastructure: reconceptualizing information operations through the Pravda network,https://openalex.org/W7203489244
+review/book,2020,0,article,Package Technology Trend in IoT Era,https://openalex.org/W4206505201
+off_domain,2026,0,preprint,Human Knowledge as an Economic Asset in the Age of Artificial Intelligence,https://openalex.org/W7159593588
+off_domain,2026,0,article,"Performance of a Hybrid Composite of Kevlar, Aluminum and Cabuya Fiber Against Ballistic Threats—Numerical and Experimental Study",https://openalex.org/W7140303086
+off_domain,2026,0,article,How Attention-Level Access to Structural Information Shapes Layer-Wise Attention Routing in Transformers,https://openalex.org/W7204861939
+off_domain,2026,0,article,A Hybrid Approach for Fair Energy Distribution and Optimal Resource Allocation in Decentralized Energy Systems,https://openalex.org/W7204158172
+off_domain,2026,0,conference-paper,Mechanism-Level Evaluation for Vision-Language Models: Controlled Activation-Replacement Diagnosis of Gender Bias,https://openalex.org/W7213397984
+review/book,2026,0,book-chapter,Interconnect Reliability for High-Performance Semiconductor Packages and Devices,https://openalex.org/W7204186796
+review/book,2026,0,article,A Copper Interconnect Scaling Roadmap for AI and HPC Systems,https://openalex.org/W7213954489
+off_domain,2020,5,article,Vertical variation in shallow and deep soil moisture in an apple orchard in the loess hilly–gully area of north China,https://openalex.org/W3024495243
+off_domain,2025,0,article,Robust optical sectioning method based on sliding window background estimation and image fusion for continuous vertical scanning structured illumination microscopy,https://openalex.org/W4412723964
+off_domain,2023,9,article,CMOS MAPS upgrade for the Belle II Vertex Detector,https://openalex.org/W4313478917
+off_domain,2026,0,dataset,"Central Asia Bird Occurrence Database — curated, openly-licensed layer",https://openalex.org/W7203621330
+review/book,2018,0,article,Package Technology Trend (Migration from Wirebonding to RDL Technology),https://openalex.org/W2886413616
+off_domain,2026,0,article,INVESTIGATING NATURE'S RECIPE FOR ELECTRONS: CERN RETROFIT,https://openalex.org/W7214498780
+review/book,2019,1,book-chapter,Heterogeneous Integrations on Fan-Out RDL Substrates,https://openalex.org/W2925973473
+review/book,2024,4,conference-paper,Fan-Out Packaging Reaching New Heights: Market and Technology Overview,https://openalex.org/W4403442428
+review/book,2018,129,book,Fan-Out Wafer-Level Packaging,https://openalex.org/W2795549950
+review/book,2019,46,book,Advances in Embedded and Fan‐Out Wafer‐Level Packaging Technologies,https://openalex.org/W3004908458
+review/book,2020,8,conference-paper,Trends in Fan Out Wafer Level Packaging,https://openalex.org/W3147568422
+review/book,2020,4,book-chapter,Fan-out wafer-level packaging as packaging technology for MEMS,https://openalex.org/W3017602660
+review/book,2020,2,book-review,"Fan-Out Wafer-Level Packaging, Springer (2018), pp. 303",https://openalex.org/W3034891664
+review/book,2023,0,erratum,Erratum:Antenna in package design and measurement for millimeter-wave applications in fan-out wafer-level package [IEICE Electronics Express Vol. 19 (2022) No. 14 pp. 20220122],https://openalex.org/W4389503665
+review/book,2019,2,book-chapter,Fan-Out Wafer/Panel-Level Packaging for Heterogeneous Integrations,https://openalex.org/W2927859039
+review/book,2022,0,book-chapter,Through glass via technology,https://openalex.org/W4285249256
+review/book,2018,14,book-chapter,3D IC Heterogeneous Integration by FOWLP,https://openalex.org/W2795528834
+review/book,2022,1,conference-paper,2.5D & 3DIC Advanced Packaging: An EDA Perspective,https://openalex.org/W4229440933
+review/book,2021,10,conference-paper,Lamination of dry film epoxy molding compounds for 3D packaging: advances and challenges,https://openalex.org/W3189482635
+review/book,2022,0,report,"Semiconductor Packaging Market PPT(2022- 2027) : Global Trends, Scope, Demand, Opportunity and Forecast",https://openalex.org/W4224233421
+review/book,2025,14,article,3-D Packaging Technologies for Advanced Integrated Photonics Modules: A Review,https://openalex.org/W4411551209
+review/book,2019,0,book-chapter,Reliability of IoT Sensor Systems: New Methods for the Efficient and Comprehensive Reliability Assessment,https://openalex.org/W2953866803
+review/book,2025,0,report,ForMikro - Miniaturisierte Hardware Module für 6G Mobilkommunikation (6GKom),https://openalex.org/W7128357875
+review/book,2018,2,book-chapter,FOWLP: Chip-First and Die Face-Down,https://openalex.org/W2796004384
+review/book,2023,2,article,Recent Trend of Advanced LSI Packaging: Introduction for application of polymers,https://openalex.org/W4394949949
+review/book,2025,57,article,"Warpage in wafer-level packaging: a review of causes, modelling, and mitigation strategies",https://openalex.org/W4407111608
+review/book,2024,3,conference-paper,Perspective on Plasma Etching in Advanced Packaging,https://openalex.org/W4398198582
+battery,2024,2,conference-paper,Integration of a Flexible Thin-Film Lithium-Ion Battery with a Wireless Charging System and a Flexible Micro-LED Array,https://openalex.org/W4400034171
+review/book,2021,7,other,Fan‐Out Wafer and Panel Level Packaging Market and Technology Trends,https://openalex.org/W4200370795
+review/book,2023,1,book-chapter,Packaging and Assembly Equipment,https://openalex.org/W4389058341
+review/book,2025,5,article,The application of organic materials used in IC advanced packaging:A review,https://openalex.org/W4406607004
+review/book,2025,4,article,"Review on Fan-Out Packaging of Light-Emitting Diodes: Process Route, Manufacturing Reliability, and Performance Optimization",https://openalex.org/W4414157839
+review/book,2025,16,review,Heterogeneous Integration Technology Drives the Evolution of Co-Packaged Optics,https://openalex.org/W4414091505
+review/book,2019,9,article,Recent advances and applications of abrasive processes for microelectronics fabrications,https://openalex.org/W2977140986
+review/book,2020,130,article,"Advanced polishing, grinding and finishing processes for various manufacturing applications: a review",https://openalex.org/W3045342633
+review/book,2024,0,article,Trends in FOWLP: 600mm Panel Level for 6-Sided Die Protection with M-Series,https://openalex.org/W4406174119
+review/book,2018,3,book-chapter,Fan-Out Panel-Level Packaging (FOPLP),https://openalex.org/W2796169380
+review/book,2022,5,book-chapter,Manufacturing for Reliability of Panel-Level Fan-out Packages,https://openalex.org/W4226225674
+off_domain,2023,26,article,Multi-layer parallel transformer model for detecting product quality issues and locating anomalies based on multiple time‑series process data in Industry 4.0,https://openalex.org/W4386322464
+review/book,2023,158,article,Challenges and prospects for advanced packaging,https://openalex.org/W4377242232
+review/book,2022,28,review,Using Chiplet Encapsulation Technology to Achieve Processing-in-Memory Functions,https://openalex.org/W4306938157
+review/book,2024,65,review,Modern Trends in Microelectronics Packaging Reliability Testing,https://openalex.org/W4392861337
+review/book,2022,724,article,Recent Advances and Trends in Advanced Packaging,https://openalex.org/W4206364646
+review/book,2025,0,report,Advancing Wireless Integration Through Antenna-in-Package Technologies,https://openalex.org/W7106296736
+review/book,2023,1,book-chapter,Process and Key Technology of Typical Advanced Packaging,https://openalex.org/W4389046012
+review/book,2025,7,book-chapter,Warpage Management in Semiconductor Packaging,https://openalex.org/W4410476841
+review/book,2025,2,book-chapter,"Moisture Reliability, Failure Mechanisms and Modeling",https://openalex.org/W4410476851
+review/book,2023,0,article,Market & Technology Trends for the Fanout and 2.5D/3D Packaging Technology,https://openalex.org/W4392254685
+review/book,2021,0,editorial,Message from the Editor,https://openalex.org/W4206099522
+review/book,2022,50,article,Recent Advances and Trends in Multiple System and Heterogeneous Integration With TSV-Less Interposers,https://openalex.org/W4288071850
+review/book,2023,0,book-chapter,Multiple System and Heterogeneous Integration with TSV-Less Interposers,https://openalex.org/W4361003905
+review/book,2023,77,article,Recent Advances and Trends in Chiplet Design and Heterogeneous Integration Packaging,https://openalex.org/W4376610386
+review/book,2024,0,book-chapter,Fan-Out Technology,https://openalex.org/W4398757239
+review/book,2026,0,book-chapter,Substrate and Interposer Materials for Semiconductor Packaging and Heterogeneous Integration,https://openalex.org/W7204215810
+review/book,2026,3,article,"Materials and design strategies for interposer-based packaging: A comparative review of silicon, glass, and organic platforms",https://openalex.org/W7171990406
+review/book,2024,3,book-chapter,Process integration for on-chip interconnects,https://openalex.org/W4403551932
+review/book,2023,0,report,Micro-Transfer Printing of Repeaters on Passive Interposer,https://openalex.org/W4391041882
+off_domain,2026,0,article,Dryout mitigation of R454C flow boiling in 3D-printed stainless steel micro-channel tubes through interrupted micro-fin design,https://openalex.org/W7213927256
